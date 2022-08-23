@@ -1,0 +1,63 @@
+p,diagnosis,cases,scz,adhd,asd,aff,bip,cohort
+Fxxxx,Any Psychiatric disorder,59653,0.07,0.28,0.24,0.4,0.04,0.06
+F3000,Mood disorders ,24099,0.06,0.08,0.07,0.98,0.09,0.03
+F9100,Behavioral and emotional disorders with onset usually occurring in childhood and adolescence,23601,0.04,0.72,0.26,0.18,0.02,0.05
+F4100,Neurotic stressrelated and somatoform disorders,22537,0.1,0.19,0.15,0.56,0.05,0.08
+F3300,Single and recurrent depressive disorder ,22094,0.06,0.08,0.07,0.98,0.04,0.03
+F9203,Hyperkinetic disorders ,18829,0.03,0.9,0.21,0.13,0.02,0.04
+F9200,Hyperkinetic disorder,18591,0.03,0.91,0.2,0.14,0.02,0.04
+F9202,ADHD ,17372,0.02,0.97,0.18,0.12,0.02,0.04
+F8100,Pervasive developmental disorders,14603,0.02,0.21,0.98,0.11,0.01,0.03
+F8101,Autism spectrum    ,14589,0.03,0.21,0.98,0.11,0.01,0.03
+F4320,Adjustment disorder,10465,0.11,0.19,0.14,0.59,0.06,0.07
+F4101,Phobic anxiety other anxiety obsessivecompulsive condition,10243,0.1,0.19,0.17,0.57,0.05,0.07
+F4300,Anxiety disorders   ,9860,0.09,0.19,0.15,0.59,0.05,0.07
+F2000,Schizophrenia and related disorders  ,9279,0.48,0.11,0.1,0.36,0.05,0.03
+F6100,Specific personality disorders ,9188,0.13,0.2,0.05,0.66,0.07,0.06
+F3200,Recurrent depressive disorder,7583,0.07,0.09,0.06,0.99,0.07,0.04
+J4501,Asthma,7577,0.06,0.25,0.19,0.29,0.03,0.28
+F1000,Mental and behavioral disorders due psychoactive substance abuse,6611,0.24,0.32,0.06,0.46,0.08,0.06
+F4322,Other or unspecified reactions to severe stress,6341,0.11,0.19,0.15,0.57,0.05,0.07
+F5100,Eating disorders,6206,0.05,0.05,0.05,0.38,0.03,0.05
+F8011,Developmental disorders (skills),5421,0.04,0.57,0.38,0.15,0.01,0.06
+F8500,Asperger's syndrome,5075,0.03,0.18,0.98,0.17,0.01,0.03
+F2100,Schizophrenia,4754,0.94,0.1,0.08,0.35,0.04,0.04
+F2101,Schizophrenia,4687,0.95,0.1,0.08,0.35,0.04,0.04
+F8700,Pervasive developmental disorder unspecified ,4415,0.03,0.22,0.98,0.12,0.01,0.03
+F1200,Mental and behavioral disorders due to cannabis use ,3846,0.26,0.34,0.06,0.43,0.07,0.06
+F8300,Childhood autism,3762,0.01,0.22,0.99,0.05,0,0.03
+R5010,Febrile seizures,3671,0.05,0.23,0.22,0.25,0.02,0.31
+F6200,Borderline type,3494,0.14,0.21,0.04,0.68,0.07,0.04
+F4200,Obsessive compulsive disorder,3287,0.09,0.21,0.23,0.46,0.04,0.07
+F4307,OCD,3281,0.09,0.2,0.24,0.46,0.04,0.07
+R5008,Syncope ,3181,0.11,0.19,0.13,0.52,0.05,0.1
+K4010,Hernia  ,3178,0.1,0.3,0.21,0.36,0.04,0.11
+F5200,Anorexia nervosa,2940,0.04,0.03,0.05,0.25,0.02,0.03
+G4010,Epilepsy,2800,0.09,0.23,0.31,0.28,0.03,0.2
+F7100,Mild mental retardation ,2475,0.06,0.42,0.46,0.15,0.02,0.07
+F3100,Bipolar disorders,2370,0.08,0.12,0.05,0.98,0.94,0.03
+F9801,Other conduct and emotionally disorders in childhood ,2317,0.04,0.37,0.42,0.28,0.02,0.07
+F5302,Atypical anorexia  ,2255,0.03,0.04,0.05,0.26,0.01,0.03
+F4305,Social phobia,2248,0.08,0.15,0.12,0.71,0.06,0.06
+F3103,Bipolar affective disorder,2234,0.08,0.13,0.05,0.98,0.94,0.04
+F8600,Other pervasive developmental disorders,2127,0.03,0.26,0.99,0.13,0.01,0.03
+F9297,Tic disorders ,2123,0.04,0.58,0.45,0.11,0.01,0.07
+F8400,Atypical autism,2093,0.02,0.21,0.98,0.11,0.01,0.03
+F1100,Mental and behavioral disorders due to alcohol use,1990,0.26,0.26,0.05,0.56,0.1,0.05
+F4308,AB,1880,0.12,0.21,0.1,0.61,0.07,0.08
+F9131,Emotional disorders with onset in childhood,1678,0.06,0.33,0.33,0.31,0.02,0.08
+G4030,Migraine,1639,0.06,0.17,0.11,0.45,0.04,0.24
+F9204,Hyperkinetic conduct disorder ,1619,0.05,0.74,0.25,0.17,0.02,0.06
+F9300,Tourette's syndrome ,1456,0.04,0.61,0.42,0.12,0.01,0.07
+F9251,Social functional disorders in childhood,1451,0.06,0.5,0.31,0.18,0.01,0.08
+F9107,Hyperkinetic conduct disorder,1434,0.05,0.73,0.24,0.19,0.02,0.06
+F4302,GAD,1426,0.1,0.17,0.1,0.65,0.06,0.06
+F4301,Panic disorder,1365,0.1,0.17,0.07,0.67,0.06,0.06
+F9111,Conduct  disorders,1264,0.07,0.54,0.28,0.19,0.02,0.08
+F4309,PTSD,1148,0.12,0.21,0.06,0.68,0.05,0.05
+F7600,Unspecified mental retardation  ,1082,0.06,0.29,0.59,0.13,0.02,0.07
+F4304,Agorpahobia,916,0.08,0.2,0.09,0.67,0.06,0.05
+F7200,Moderate mental retardation ,776,0.05,0.34,0.6,0.11,0.02,0.06
+G4012,Epilepsy with primary generalized seizures,630,0.07,0.25,0.31,0.28,0.02,0.19
+F4323,Other or unspecified reactions to severe stress,624,0.13,0.21,0.16,0.53,0.04,0.08
+F4303,AD,593,0.1,0.13,0.11,0.67,0.05,0.07

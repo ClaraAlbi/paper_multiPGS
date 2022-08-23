@@ -1,0 +1,938 @@
+GWAS_trait,id,GWAS_pubmedID,source,M_or,M_m,M_ldpred,k,h2_est,p_est
+Relative sugar intake,phen1,32393786,Other public resources,11417548,1115102,1039923,30,4.11e-02,7.14e-03
+Relative protein intake,phen2,32393786,Other public resources,11417548,1115102,1039911,30,2.54e-02,4.21e-03
+Relative carbohydrate intake,phen3,32393786,Other public resources,11417548,1115102,1039907,30,4.01e-02,7.92e-03
+General-risk-tolerance,phen4,30643258,Other public resources,11514381,1115155,1041767,30,5.13e-02,1.44e-02
+Automobile speeding propensity,phen5,30643258,Other public resources,11514463,1115158,1039843,30,6.39e-02,1.54e-02
+Drinks per week,phen6,30643258,Other public resources,11514936,1115154,1039827,30,6.92e-02,1.36e-02
+"Meta-analysis of ever smoker, which includes the UKB and the TAG Consortium GWAS",phen7,30643258,Other public resources,11514654,1115159,1036617,30,9.18e-02,2.02e-02
+Number of sexual partners,phen8,30643258,Other public resources,11515109,1115156,1039827,30,9.78e-02,1.77e-02
+First PC of the four risky behaviors,phen9,30643258,Other public resources,11514862,1115155,1039844,30,1.13e-01,1.69e-02
+OCD,phen10,28761083,Other public resources,7939284,1110009,1040286,19,3.58e-01,3.39e-03
+Cognitive performance (CP),phen11,30038396,Other public resources,10098325,1108843,1033915,30,1.95e-01,1.89e-02
+Body mass index,phen15,30124842,Other public resources,27380252,1118364,1039077,30,2.29e-01,3.52e-02
+Waist-hip ratio,phen16,30124842,Other public resources,27375541,1118365,1041715,30,1.59e-01,2.62e-02
+Body mass index,phen17,30124842,Other public resources,2336269,956579,900630,30,2.18e-01,3.41e-02
+Height,phen18,30124843,Other public resources,2334001,955552,899654,30,6.29e-01,3.37e-02
+AD,phen19,30617256,Other public resources,13309438,1118197,1036720,30,3.18e-02,4.80e-04
+Childhood IQ,phen20,23358156,Other public resources,1380158,760999,720130,25,2.25e-01,5.17e-03
+Insomnia,phen22,30804565,Other public resources,10862567,1075372,1009880,30,4.75e-02,1.33e-02
+Morningness,phen23,30804565,Other public resources,10862567,1075372,1003997,30,1.22e-01,1.88e-02
+Sleep duration,phen24,30804565,Other public resources,10862567,1075372,1003997,30,6.95e-02,1.54e-02
+Ease of getting up,phen25,30804565,Other public resources,10862567,1075372,1004002,30,7.69e-02,1.68e-02
+Daytime napping,phen26,30804565,Other public resources,10858884,1075372,1003921,30,2.14e-02,7.27e-03
+Daytime dozing,phen27,30804565,Other public resources,10820721,1075372,1003888,29,1.25e-02,5.77e-03
+Snoring,phen28,30804565,Other public resources,10862567,1075372,1007994,30,6.21e-02,1.44e-02
+IQ,phen29,29942086,Other public resources,9295118,1109972,1033242,30,2.13e-01,2.50e-02
+Neuroticism,phen30,27089182,Other public resources,6524432,1061974,856277,30,5.82e-02,7.94e-03
+Depressed affect subcluster,phen33,29942085,Other public resources,10847150,1075372,1003990,30,9.37e-02,1.91e-02
+Worry subcluster,phen34,29942085,Other public resources,10847150,1075372,1003988,30,9.14e-02,1.81e-02
+AUDIT-total,phen37,30336701,Other public resources,8017302,1099767,1025236,30,8.87e-02,8.62e-03
+AUDIT-C,phen38,30336701,Other public resources,8017302,1099767,1025238,30,7.83e-02,8.01e-03
+AUDIT-P,phen39,30336701,Other public resources,8017302,1099767,1025236,30,5.86e-02,6.49e-03
+Lifetime cannabis use,phen40,30150663,Other public resources,11535592,1113113,1040308,30,8.84e-02,1.04e-02
+"Cigs per day, continuous",phen41,20418890,Other public resources,2459118,1007351,930501,24,2.83e-02,1.15e-03
+"Log age-onset smoking, continuous",phen42,20418890,Other public resources,2457545,1007160,938400,9,1.46e-02,3.42e-03
+"Ever vs never smoked, discrete",phen43,20418890,Other public resources,2455846,1007302,929133,29,7.48e-02,8.54e-03
+Asthma,phen45,29785011,Other public resources,6960182,1009769,931540,30,1.91e-01,3.54e-03
+"Allergy (hay fever, allergic rhinitis or eczema)",phen46,29785011,Other public resources,6940189,1006138,924820,30,1.29e-01,4.28e-03
+EAGLE eczema consortium,phen48,26482879,Other public resources,11296420,1115629,1042871,26,1.07e-01,1.50e-03
+Asthma (adult-onset),phen49,30929738,Other public resources,1833917,239933,224363,30,3.00e-02,1.55e-02
+Childhood-onset asthma,phen50,30929739,Other public resources,9020834,1108957,1037129,30,6.26e-02,2.79e-03
+"Asthma, hay fever (or allergic rhinitis) and eczema (or atopic dermatitis)",phen51,29083406,Other public resources,2156842,301346,282622,30,1.88e-02,3.61e-03
+Preschool internalizing problems (INT),phen53,24839885,Other public resources,2451671,1002033,937402,4,2.19e-01,7.95e-04
+Recurrent depression,phen54,31926635,Other public resources,5389701,1009035,698360,30,1.12e-01,8.69e-03
+ADHD,phen55,30478444,PGC without iPSYCH samples,7956203,1045679,987777,16,1.86e-01,3.62e-03
+ASD,phen56,30804558,PGC without iPSYCH samples,9459732,1113228,1040308,27,2.36e-01,3.87e-03
+AN,phen57,31308545,PGC without iPSYCH samples,8520663,1074812,1013572,30,2.60e-01,8.44e-03
+SCZ PGC3,phen58,SCZ PUBMID,PGC without iPSYCH samples,14437150,1118443,1036178,30,4.55e-01,3.81e-02
+BD PGC3,phen59,BD PUBMID,PGC without iPSYCH samples,7606701,1110731,1047642,30,2.12e-01,1.66e-02
+MDD Howard,phen60,30718901,PGC without iPSYCH samples,6282030,1027027,969061,30,6.23e-02,2.13e-02
+MDD PGC2,phen61,29700475,PGC without iPSYCH samples,13544713,1117553,1045462,30,7.47e-02,1.67e-02
+Educational attainment (EA),phen62,30038396,Other public resources,10101242,1108838,1037389,30,1.11e-01,2.52e-02
+Cognitive skills,phen63,preprint,PGC without iPSYCH samples,7305956,1075564,1000099,30,9.73e-02,1.98e-02
+Non-cognitive skills,phen64,preprint,PGC without iPSYCH samples,7305956,1075564,1000095,30,1.10e-01,1.64e-02
+G factor (adult),phen65,32895543,PGC without iPSYCH samples,7068746,1042016,969368,30,1.04e-01,1.73e-02
+Cannabis use disorder,phen66,33096046,PGC without iPSYCH samples,6890886,1066203,999510,28,1.63e-02,6.00e-03
+Left handedness,phen68,32989287,PGC without iPSYCH samples,7759413,1101977,1026530,30,3.04e-02,5.76e-03
+Ambidexterity,phen69,32989287,PGC without iPSYCH samples,7347493,1100274,1027935,16,5.57e-03,3.23e-03
+Headache,phen70,29397368,Other public resources,9304964,1108669,1034627,30,1.01e-01,1.12e-02
+Hand grip strenght (right),phen71,29313844,Other public resources,23777823,1116674,1040794,30,1.29e-01,2.47e-02
+Hand grip strenght (left),phen72,29313844,Other public resources,23777910,1116674,1040789,30,1.29e-01,2.62e-02
+urine sodium excretion,phen73,31409800,Other public resources,23770657,1116674,1040791,30,6.96e-02,1.84e-02
+salt added to food,phen74,32193382,Other public resources,23778620,1116674,1040793,30,8.02e-02,1.69e-02
+eGFRcrea overall European ancestry,phen76,31152163,Other public resources,8885712,1116835,1041894,30,7.43e-02,6.02e-03
+BUN overall European ancestry,phen77,31152164,Other public resources,8358026,1115294,1044158,30,6.67e-02,2.83e-03
+CKD overall European ancestry,phen78,31152165,Other public resources,9162323,1116768,1041452,30,2.38e-02,4.03e-03
+Breast cancer,GCST004988,29059683,gwas_catalog,11792358,1118368,1048037,30,2.49e-01,4.35e-03
+Colorectal cancer,GCST008372,30104761,gwas_catalog,28146007,1118442,1041943,22,1.44e-01,1.51e-03
+Endometrial cancer,GCST006464,30093612,gwas_catalog,9529047,1111784,1043176,28,1.65e-01,5.26e-03
+Endometrial cancer (endometrioid histology),GCST006465,30093612,gwas_catalog,9522790,1111675,1043240,28,2.22e-01,5.17e-03
+Primary biliary cholangitis,GCST003129,26394269,gwas_catalog,1118849,1011230,988633,30,5.47e-01,7.27e-04
+Prostate cancer,GCST006085,29892016,gwas_catalog,20370928,1117366,1046853,30,1.82e-01,1.74e-03
+Thyroid cancer,GCST008371,30104761,gwas_catalog,28338944,1118442,1041896,4,1.71e-01,1.26e-04
+Atrial fibrillation,GCST006414,30061737,gwas_catalog,34417366,1118443,1046217,30,1.15e-01,3.10e-03
+Coronary heart disease,GCST000998,21378990,gwas_catalog,2420360,995530,933326,29,1.27e-01,5.66e-03
+Heart failure,GCST009541,31919418,gwas_catalog,8281262,1109906,1039217,30,8.35e-03,5.67e-03
+Diverticular disease,GCST008105,30661054,gwas_catalog,10113596,1110404,1036834,30,1.35e-01,6.23e-03
+Irritable bowel syndrome,GCST006304,29626450,gwas_catalog,7268898,1070959,1002096,27,9.68e-03,4.13e-03
+Gout,GCST008970,31578528,gwas_catalog,36737039,1118416,1043571,30,8.22e-03,3.56e-04
+Type 2 diabetes,GCST006867,30054458,gwas_catalog,5053015,945742,895782,30,5.54e-02,8.01e-03
+Age-related hearing impairment,GCST003763,27764096,gwas_catalog,7246752,1057923,992840,24,1.63e-01,3.61e-03
+Carpal tunnel syndrome,GCST007581,30833571,gwas_catalog,8944547,1101820,1029877,30,2.13e-01,7.34e-03
+Glaucoma,GCST008373,30104761,gwas_catalog,28286948,1118442,1041973,27,1.85e-01,1.54e-03
+Glaucoma (multi-trait analysis),GCST009722,31959993,gwas_catalog,7698182,1097896,1025010,30,5.30e-02,2.29e-03
+Insomnia complaints,GCST004695,28604731,gwas_catalog,12444915,1114685,1039024,28,3.57e-02,3.11e-03
+Alzheimer's disease (late onset),GCST007511,30820047,gwas_catalog,8167685,1106728,1036235,30,1.06e-01,7.63e-05
+Suffering from nerves,GCST006949,29500382,gwas_catalog,10846943,1075357,1003655,30,4.02e-02,1.15e-02
+Focal epilepsy (lesion negative),GCST007349,30531953,gwas_catalog,4988872,870657,824470,15,3.86e-01,6.56e-03
+Amyotrophic lateral sclerosis (sporadic),GCST004901,28931804,gwas_catalog,4986509,929828,874795,26,2.07e-01,7.29e-03
+Depression,GCST010016,32231276,gwas_catalog,8968715,1102786,1025694,10,7.78e-02,3.23e-03
+Depression (broad),GCST005902,29662059,gwas_catalog,7641986,1101387,1029346,30,6.68e-02,1.30e-02
+Depression or depression symptoms,GCST010015,32231276,gwas_catalog,8968715,1102786,1030315,29,6.50e-02,5.13e-03
+Help-seeking from a GP,GCST010011,32231276,gwas_catalog,8968715,1102786,1030366,30,6.61e-02,1.36e-02
+Help-seeking from a GP (without major depressive disorder symptoms),GCST010014,32231276,gwas_catalog,8968715,1102786,1030347,21,3.66e-02,1.61e-03
+Help-seeking from a psychiatrist,GCST010012,32231276,gwas_catalog,8968715,1102786,1030350,30,7.43e-02,8.04e-03
+Major depressive disorder,GCST009979,31969693,gwas_catalog,7790497,1112842,898500,30,9.16e-02,8.10e-03
+Major depressive disorder (ICD-10 coded),GCST005903,29662059,gwas_catalog,7658352,1103421,1031137,23,1.05e-01,4.20e-03
+Major depressive disorder (lifetime with recurrence),GCST010010,32231276,gwas_catalog,8968715,1102786,1030401,30,1.42e-01,5.41e-03
+Major depressive disorder (lifetime),GCST010009,32231276,gwas_catalog,8968715,1102786,1030433,30,1.12e-01,6.35e-03
+Major depressive disorder (probable),GCST005904,29662059,gwas_catalog,7666894,1104449,1032012,25,3.92e-02,4.34e-03
+Major depressive disorder in trauma-unexposed individuals,GCST009981,31969693,gwas_catalog,7790497,1112842,971242,9,6.58e-02,2.47e-03
+Major depressive disorder symptoms (low mood or anhedonia),GCST010013,32231276,gwas_catalog,8968715,1102786,1030367,29,7.66e-02,5.96e-03
+Adolescent idiopathic scoliosis,GCST006902,30395268,gwas_catalog,3287821,677559,570306,25,8.14e-01,2.17e-02
+Asthma (adult onset),GCST008918,31619474,gwas_catalog,5281004,677875,641619,30,9.19e-02,6.55e-03
+Asthma (moderate or severe),GCST006911,30552067,gwas_catalog,33771858,1107713,1025978,30,3.53e-01,2.56e-03
+Chronic kidney disease,GCST008065,31152163,gwas_catalog,9162323,1116768,1041452,30,2.38e-02,4.00e-03
+Osteoarthritis (hospital diagnosed),GCST005814,29559693,gwas_catalog,16468597,1107812,1039553,28,7.40e-02,4.30e-03
+Osteoarthritis (self-reported),GCST005811,29559693,gwas_catalog,16499239,1106801,1038561,29,6.19e-02,4.42e-03
+Osteoarthritis of the hip (hospital diagnosed),GCST005810,29559693,gwas_catalog,16122076,1112369,1036482,9,9.26e-02,6.77e-04
+Osteoarthritis of the knee (hospital diagnosed),GCST005813,29559693,gwas_catalog,16309199,1110578,1042073,17,5.51e-02,2.31e-03
+Birth weight,GCST005146,27680694,gwas_catalog,22434433,1118387,1043664,30,1.18e-01,6.36e-03
+Body fat percentage,GCST007064,30593698,gwas_catalog,7794483,1113300,1041143,26,1.65e-02,4.35e-02
+Height,GCST006901,30124842,gwas_catalog,2334001,955552,899654,30,6.29e-01,3.37e-02
+Heart rate,GCST001969,23583979,gwas_catalog,2516789,992986,934198,30,9.18e-02,3.69e-03
+Heart rate increase in response to exercise,GCST005845,29497042,gwas_catalog,14651149,1118441,1042117,30,3.00e-02,5.19e-03
+Heart rate response to recovery post exercise (10 sec),GCST005846,29497042,gwas_catalog,14651149,1118441,1042121,30,2.29e-02,2.33e-03
+Heart rate response to recovery post exercise (20 sec),GCST005847,29497042,gwas_catalog,14651149,1118441,1042129,30,2.66e-02,3.39e-03
+Heart rate response to recovery post exercise (30 sec),GCST005850,29497042,gwas_catalog,14651149,1118441,1042131,30,2.76e-02,3.53e-03
+Heart rate response to recovery post exercise (40 sec),GCST005849,29497042,gwas_catalog,14651149,1118441,1042124,30,2.78e-02,3.42e-03
+Heart rate response to recovery post exercise (50 sec),GCST005848,29497042,gwas_catalog,14651149,1118441,1042128,30,2.70e-02,3.37e-03
+Heart rate variability traits (pvRSA/HF),GCST004732,28613276,gwas_catalog,2532811,1055939,989144,24,3.80e-02,2.02e-04
+Heart rate variability traits (RMSSD),GCST004733,28613276,gwas_catalog,2534714,1056790,994279,26,6.91e-02,4.38e-04
+Heart rate variability traits (SDNN),GCST004734,28613276,gwas_catalog,2555913,1060414,990844,25,6.70e-02,5.55e-04
+Body surface area-indexed left ventricular end-diastolic volume,GCST010128,32382064,gwas_catalog,14530025,1118436,1042292,30,2.17e-01,4.85e-03
+Left ventricular end-diastolic volume,GCST010131,32382064,gwas_catalog,14528279,1118437,1042287,30,2.68e-01,5.43e-03
+Left ventricular ejection fraction,GCST010125,32382064,gwas_catalog,14528279,1118437,1042274,30,1.89e-01,2.41e-03
+Left ventricular mass,GCST009396,31554410,gwas_catalog,6989573,1012898,949641,29,1.98e-01,3.38e-03
+Left ventricular mass to end-diastolic volume ratio,GCST009393,31554410,gwas_catalog,6989560,1012886,949636,27,1.91e-01,2.13e-03
+Body surface area-indexed left ventricular stroke volume,GCST010126,32382064,gwas_catalog,14530025,1118436,1042282,30,1.79e-01,4.65e-03
+Left ventricular stroke volume,GCST010129,32382064,gwas_catalog,14528279,1118437,1042281,30,2.15e-01,5.42e-03
+Myocardial fractal dimension (slice 1),GCST90000287,32814899,gwas_catalog,13415263,1117858,1041977,16,1.16e-01,2.48e-03
+Myocardial fractal dimension (slice 2),GCST90000288,32814899,gwas_catalog,13415263,1117858,1041975,24,1.17e-01,1.35e-03
+Myocardial fractal dimension (slice 3),GCST90000289,32814899,gwas_catalog,13415263,1117858,1041975,26,1.55e-01,1.19e-03
+Myocardial fractal dimension (slice 4),GCST90000290,32814899,gwas_catalog,13415263,1117858,1041978,26,1.53e-01,1.15e-03
+Myocardial fractal dimension (slice 5),GCST90000291,32814899,gwas_catalog,13415263,1117858,1041980,28,2.07e-01,1.86e-03
+Myocardial fractal dimension (slice 6),GCST90000292,32814899,gwas_catalog,13415263,1117858,1041979,29,2.18e-01,1.85e-03
+Myocardial fractal dimension (slice 7),GCST90000293,32814899,gwas_catalog,13415263,1117858,1041975,28,2.06e-01,2.08e-03
+Myocardial fractal dimension (slice 8),GCST90000294,32814899,gwas_catalog,13415263,1117858,1041975,26,1.88e-01,2.29e-03
+Myocardial fractal dimension (slice 9),GCST90000295,32814899,gwas_catalog,13415263,1117858,1041975,9,1.02e-01,1.97e-03
+Body surface area-indexed left ventricular end-systolic volume,GCST010127,32382064,gwas_catalog,14530025,1118436,1042294,30,2.04e-01,2.70e-03
+Left ventricular end-systolic volume,GCST010130,32382064,gwas_catalog,14528279,1118437,1042292,30,2.57e-01,3.70e-03
+PR interval,GCST010320,32439900,gwas_catalog,10731477,1116760,1046402,30,1.43e-01,3.19e-03
+Eosinophil counts,GCST004606,27863252,gwas_catalog,29485759,1118218,1042065,30,1.56e-01,1.97e-03
+Eosinophil percentage of granulocytes,GCST004617,27863252,gwas_catalog,29482376,1118218,1042058,30,1.41e-01,1.92e-03
+Eosinophil percentage of white cells,GCST004600,27863252,gwas_catalog,29483746,1118218,1042060,30,1.48e-01,1.93e-03
+Red blood cell count,GCST004601,27863252,gwas_catalog,29486177,1118218,1042084,30,1.82e-01,2.65e-03
+Granulocyte count,GCST004614,27863252,gwas_catalog,29481601,1118218,1042053,30,1.38e-01,2.39e-03
+Granulocyte percentage of myeloid white cells,GCST004608,27863252,gwas_catalog,29480509,1118218,1042042,30,1.64e-01,1.57e-03
+Hematocrit,GCST004604,27863252,gwas_catalog,29484426,1118218,1042070,30,1.29e-01,2.75e-03
+Hemoglobin concentration,GCST004615,27863252,gwas_catalog,29483564,1118218,1042063,30,1.33e-01,2.56e-03
+White blood cell count,GCST004610,27863252,gwas_catalog,29485724,1118218,1042070,30,1.59e-01,3.00e-03
+Lymphocyte counts,GCST004627,27863252,gwas_catalog,29484106,1118218,1042055,30,1.60e-01,2.74e-03
+Lymphocyte percentage of white cells,GCST004632,27863252,gwas_catalog,29483866,1118218,1042052,30,1.22e-01,2.74e-03
+Mean corpuscular hemoglobin,GCST004630,27863252,gwas_catalog,29482665,1118218,1042072,30,2.49e-01,1.32e-03
+Mean corpuscular hemoglobin concentration,GCST004605,27863252,gwas_catalog,29486070,1118218,1042065,30,8.45e-02,7.84e-04
+Monocyte count,GCST004625,27863252,gwas_catalog,29482454,1118218,1042063,30,2.09e-01,2.05e-03
+Monocyte percentage of white cells,GCST004609,27863252,gwas_catalog,29481677,1118218,1042053,30,1.86e-01,1.60e-03
+Myeloid white cell count,GCST004626,27863252,gwas_catalog,29478559,1118218,1042061,30,1.43e-01,2.54e-03
+Neutrophil count,GCST004629,27863252,gwas_catalog,29481373,1118218,1042054,30,1.35e-01,2.35e-03
+Neutrophil percentage of granulocytes,GCST004623,27863252,gwas_catalog,29482650,1118218,1042056,30,1.29e-01,1.81e-03
+Neutrophil percentage of white cells,GCST004633,27863252,gwas_catalog,29482828,1118218,1042044,30,1.15e-01,2.55e-03
+Platelet distribution width,GCST004616,27863252,gwas_catalog,29461105,1117937,1041800,30,1.77e-01,1.38e-03
+Plateletcrit,GCST004607,27863252,gwas_catalog,29463315,1118218,1042057,30,2.19e-01,2.53e-03
+High light scatter reticulocyte count,GCST004611,27863252,gwas_catalog,29480430,1118218,1042073,30,1.75e-01,1.58e-03
+High light scatter reticulocyte percentage of red cells,GCST004612,27863252,gwas_catalog,29480170,1118218,1042075,30,1.76e-01,1.49e-03
+Immature fraction of reticulocytes,GCST004628,27863252,gwas_catalog,29479929,1118208,1042047,30,1.30e-01,1.12e-03
+Reticulocyte count,GCST004622,27863252,gwas_catalog,29479992,1118216,1042066,30,1.79e-01,1.63e-03
+Reticulocyte fraction of red cells,GCST004619,27863252,gwas_catalog,29480520,1118210,1042062,30,1.78e-01,1.44e-03
+Sum basophil neutrophil counts,GCST004620,27863252,gwas_catalog,29480759,1118218,1042053,30,1.35e-01,2.34e-03
+Sum eosinophil basophil counts,GCST004624,27863252,gwas_catalog,29485063,1118218,1042063,30,1.49e-01,1.97e-03
+Sum neutrophil eosinophil counts,GCST004613,27863252,gwas_catalog,29482518,1118218,1042052,30,1.37e-01,2.38e-03
+White blood cell count (basophil),GCST004618,27863252,gwas_catalog,29484325,1118212,1042050,30,6.40e-02,1.23e-03
+Basophil percentage of granulocytes,GCST004634,27863252,gwas_catalog,29481035,1118207,1042034,30,4.93e-02,8.01e-04
+Basophil percentage of white cells,GCST004631,27863252,gwas_catalog,29483704,1118203,1042039,30,4.82e-02,6.74e-04
+C-reactive protein levels,GCST009777,31900758,gwas_catalog,8927042,1110177,720912,30,2.62e-01,1.66e-02
+HDL cholesterol levels,GCST004232,28334899,gwas_catalog,2227639,930358,681023,24,3.82e-01,4.84e-03
+LDL cholesterol levels,GCST004233,28334899,gwas_catalog,2227829,930420,683161,23,3.33e-01,6.04e-03
+Low density lipoprotein cholesterol levels,GCST90002412,32493714,gwas_catalog,16759647,1114053,1037965,30,3.04e-01,4.09e-03
+Agreeableness,GCST006329,21173776,gwas_catalog,2305461,964791,910409,4,1.46e-02,1.50e-03
+Alcohol consumption (drinks per week),GCST007328,30643258,gwas_catalog,11514936,1115154,1039827,30,6.92e-02,1.35e-02
+Anxiety/tension (special factor of neuroticism),GCST007710,30867560,gwas_catalog,18485882,1115610,735887,30,5.73e-02,1.57e-02
+Male-pattern baldness,GCST007020,30573740,gwas_catalog,19123862,1079082,1007468,30,4.05e-01,5.74e-03
+Blood urea nitrogen levels,GCST008063,31152163,gwas_catalog,8358026,1115294,1044158,30,6.69e-02,2.86e-03
+Morning person,GCST007565,30696823,gwas_catalog,11977376,1115707,1039921,30,1.16e-01,1.85e-02
+Smoking behaviour (cigarettes smoked per day),GCST007459,30643251,gwas_catalog,12003613,1115660,1045717,30,5.20e-02,3.90e-03
+Cognitive performance,GCST006572,30038396,gwas_catalog,10098325,1108843,1033915,30,1.95e-01,1.90e-02
+Conscientiousness,GCST006326,21173776,gwas_catalog,2305682,964844,910351,11,6.18e-02,1.60e-03
+Depressive symptoms,GCST007340,30643256,gwas_catalog,4982474,915200,866565,30,4.13e-02,2.28e-02
+Family history of Alzheimer's disease,GCST005921,29777097,gwas_catalog,7350603,1102512,725819,30,1.25e-02,4.12e-05
+Maternal history of Alzheimer's disease,GCST005923,29777097,gwas_catalog,7350603,1102512,725807,30,2.58e-02,1.76e-05
+Paternal history of Alzheimer's disease,GCST005920,29777097,gwas_catalog,7350603,1102512,725902,25,1.89e-02,1.30e-05
+Feeling fed-up,GCST006947,29500382,gwas_catalog,10846943,1075357,1003655,30,6.82e-02,1.70e-02
+Feeling hurt,GCST006951,29500382,gwas_catalog,10846943,1075357,1003655,30,6.04e-02,1.48e-02
+Feeling miserable,GCST006943,29500382,gwas_catalog,10846943,1075357,1003655,30,5.97e-02,1.49e-02
+Feeling nervous,GCST006948,29500382,gwas_catalog,10846943,1075357,1003655,30,6.31e-02,1.51e-02
+Feeling tense,GCST006952,29500382,gwas_catalog,10846943,1075357,1003655,30,5.10e-02,1.31e-02
+Lung function (FEV1/FVC),GCST007431,30804560,gwas_catalog,19814168,1115992,1042810,30,1.55e-01,7.07e-03
+FEV1,GCST007432,30804560,gwas_catalog,19814083,1115992,1043213,30,1.57e-01,1.38e-02
+Gestational weight gain (maternal effect),GCST005033,28990592,gwas_catalog,2408704,985231,923685,16,1.30e-01,3.38e-03
+Estimated glomerular filtration rate,GCST008058,31152163,gwas_catalog,8276454,1115932,1007368,30,9.47e-02,1.52e-02
+Feeling guilty,GCST006945,29500382,gwas_catalog,10846943,1075357,1003655,30,4.94e-02,1.36e-02
+Insomnia symptoms (never/rarely vs. sometimes/usually),GCST007387,30804566,gwas_catalog,14661601,1118373,1042086,30,8.50e-02,1.59e-02
+Modified Stumvoll Insulin Sensitivity Index,GCST005178,27416945,gwas_catalog,2423410,1005702,943004,11,7.12e-02,2.71e-03
+Irritable mood,GCST006941,29500382,gwas_catalog,10846943,1075357,1003655,30,6.15e-02,1.48e-02
+Fat-free mass,GCST007063,30593698,gwas_catalog,7794483,1113300,1041132,30,5.79e-02,1.50e-01
+Driving (hours per day),GCST010086,32317632,gwas_catalog,19400299,1118441,1041941,30,3.25e-02,1.04e-02
+Leisure sedentary behaviour (television watching),GCST010084,32317632,gwas_catalog,19400292,1118441,1041998,30,1.44e-01,2.50e-02
+Feeling lonely,GCST006942,29500382,gwas_catalog,10846943,1075357,1003655,30,3.55e-02,1.22e-02
+Loneliness,GCST006923,29970889,gwas_catalog,7745443,1110423,1036861,30,6.52e-02,1.30e-02
+Loneliness (MTAG),GCST006924,29970889,gwas_catalog,7723212,1110162,1034540,30,3.73e-02,1.09e-02
+Experiencing mood swings,GCST006944,29500382,gwas_catalog,10846943,1075357,1003655,30,6.75e-02,1.63e-02
+General factor of neuroticism,GCST007709,30867560,gwas_catalog,18485882,1115610,736025,30,1.04e-01,2.19e-02
+Neurociticism,GCST006940,29500382,gwas_catalog,10846943,1075357,1003655,30,1.09e-01,2.07e-02
+Neuroticism,GCST007339,30643256,gwas_catalog,4982474,915200,866535,30,8.36e-02,2.28e-02
+Openness,GCST000922,21173776,gwas_catalog,2305640,964889,910501,6,6.68e-02,1.87e-03
+Parental extreme longevity (95 years and older),GCST003395,27015805,gwas_catalog,9583642,1095050,1023128,5,3.75e-01,3.02e-03
+Parental lifespan,GCST009890,30642433,gwas_catalog,9085648,1117203,1043207,30,2.87e-02,1.21e-02
+Parental longevity (both parents in top 10%),GCST006698,29227965,gwas_catalog,11516100,1071959,999166,30,3.20e-01,7.51e-03
+Parental longevity (combined parental age at death),GCST006702,29227965,gwas_catalog,11516096,1071961,999226,30,5.10e-02,1.00e-02
+"Parental longevity (combined parental attained age, Martingale residuals)",GCST006697,29227965,gwas_catalog,11521815,1071973,999233,30,4.52e-02,1.27e-02
+Parental longevity (father's age at death),GCST006700,29227965,gwas_catalog,11519488,1071971,999225,30,3.01e-02,9.61e-03
+Parental longevity (father's attained age),GCST006701,29227965,gwas_catalog,11521579,1071970,999237,30,3.80e-02,1.27e-02
+Parental longevity (mother's age at death),GCST006699,29227965,gwas_catalog,11517079,1071965,999214,30,3.26e-02,9.33e-03
+Parental longevity (mother's attained age),GCST006696,29227965,gwas_catalog,11522251,1071973,999231,30,2.79e-02,1.02e-02
+Peak expiratory flow,GCST007430,30804560,gwas_catalog,14903702,1115993,1042458,30,1.23e-01,7.06e-03
+Accelerometer-based physical activity measurement (average acceleration),GCST006099,29899525,gwas_catalog,11826775,1118301,1042130,30,1.42e-01,1.07e-02
+Accelerometer-based physical activity measurement (fraction of time with accelerations >425 milli-gravities),GCST006079,29899525,gwas_catalog,11826725,1118305,1042125,30,1.07e-01,9.10e-03
+Moderate to vigorous physical activity levels,GCST006097,29899525,gwas_catalog,11838639,1118318,1042109,30,4.73e-02,1.26e-02
+Physical activity (moderate intensity activity duration),GCST006915,30531941,gwas_catalog,9770928,1110860,1037258,27,5.75e-02,5.37e-03
+Physical activity (overall physical activity time),GCST006912,30531941,gwas_catalog,9770928,1110860,1037276,30,1.44e-01,1.10e-02
+Physical activity (walking duration),GCST007110,30531941,gwas_catalog,9770928,1110860,1037259,30,7.23e-02,6.78e-03
+Sedentary behaviour duration,GCST006913,30531941,gwas_catalog,9770928,1110860,1037261,30,1.01e-01,7.85e-03
+Vigorous physical activity,GCST006098,29899525,gwas_catalog,11834614,1118307,1042096,30,6.23e-02,1.17e-02
+Urinary potassium excretion,GCST008648,31409800,gwas_catalog,8776510,1116708,1042031,30,4.30e-02,1.28e-02
+Refractive error (age-at-onset of spectacle wearing-inferred),GCST009520,31670792,gwas_catalog,10417985,1115749,1041069,30,1.26e-01,9.73e-03
+Refractive error (autorefraction measured),GCST009521,31670792,gwas_catalog,10417985,1115749,1041176,30,3.47e-01,8.19e-03
+Number of sexual partners,GCST007326,30643258,gwas_catalog,11515109,1115156,1039827,30,9.78e-02,1.77e-02
+Sleep duration (long sleep),GCST007560,30846698,gwas_catalog,14661601,1118373,1042068,30,8.38e-02,8.34e-03
+Sleep duration (oversleepers),GCST006685,27494321,gwas_catalog,16762749,1102040,1027312,16,8.30e-02,3.92e-03
+Sleep duration (short sleep),GCST007559,30846698,gwas_catalog,14661601,1118373,1042076,30,6.93e-02,1.39e-02
+Sleep duration (undersleepers),GCST006686,27494321,gwas_catalog,16761229,1102041,1027303,28,6.23e-02,6.79e-03
+Smoking initiation (ever regular vs never regular),GCST007474,30643251,gwas_catalog,11733344,1102177,1034054,30,3.48e-02,8.99e-03
+Snoring,GCST009761,32060260,gwas_catalog,11010167,1116424,1041930,30,6.06e-02,1.36e-02
+Regular attendance at a gym or sports club,GCST006920,29970889,gwas_catalog,7745421,1110431,1036866,30,4.27e-02,1.31e-02
+Regular attendance at a pub or social club,GCST006921,29970889,gwas_catalog,7745421,1110431,1036872,30,4.74e-02,1.29e-02
+Regular attendance at a religious group,GCST006922,29970889,gwas_catalog,7745421,1110431,1036869,30,1.04e-01,1.60e-02
+Urinary sodium excretion,GCST008647,31409800,gwas_catalog,8776507,1116707,1042048,30,7.31e-02,1.77e-02
+Left planum temporale grey matter volume,GCST009460,31887566,gwas_catalog,15120452,1117353,1041393,28,2.51e-01,4.53e-03
+Planum temporale asymmetry index,GCST009459,31887566,gwas_catalog,15120452,1117353,1041398,7,6.81e-02,1.23e-03
+Right planum temporale grey matter volume,GCST009458,31887566,gwas_catalog,15120452,1117353,1041396,28,2.38e-01,4.10e-03
+Trauma exposure,GCST009982,31969693,gwas_catalog,7790497,1112842,881720,30,1.12e-01,9.35e-03
+Trauma exposure in major depressive disorder-negative individuals,GCST009984,31969693,gwas_catalog,7790497,1112842,958030,20,9.88e-02,4.02e-03
+Urate levels,GCST008972,31578528,gwas_catalog,38962994,1118416,982201,30,1.68e-01,6.26e-03
+Urinary albumin-to-creatinine ratio,GCST009640,31630189,gwas_catalog,12079899,1115624,1042455,30,5.52e-02,1.15e-02
+Lung function (FVC),GCST007429,30804560,gwas_catalog,19815284,1115993,1043006,30,1.54e-01,1.57e-02
+Vitamin D levels,GCST005367,29343764,gwas_catalog,2514512,1066213,966863,30,9.75e-02,1.47e-03
+Life satisfaction,GCST007337,30643256,gwas_catalog,4982474,915200,838724,30,3.36e-01,1.17e-02
+Positive affect,GCST007338,30643256,gwas_catalog,4982474,915200,854557,30,9.03e-02,1.89e-02
+White matter hyperintensity volume,GCST007305,30659137,gwas_catalog,7332218,1100693,1030296,19,2.06e-01,2.23e-03
+White matter integrity (fractional anisotropy),GCST010102,32358547,gwas_catalog,9735097,1109852,1036458,11,1.15e-01,1.71e-02
+White matter integrity (mean diffusivity),GCST010103,32358547,gwas_catalog,9735314,1109836,1036432,26,1.59e-01,2.00e-02
+Feeling worry,GCST006950,29500382,gwas_catalog,10846943,1075357,1003655,30,7.36e-02,1.66e-02
+Worry,GCST006478,29942085,gwas_catalog,10847150,1075372,1003988,30,9.14e-02,1.82e-02
+Worry too long after an embarrassing experience,GCST006946,29500382,gwas_catalog,10846943,1075357,1003655,30,6.22e-02,1.53e-02
+Worry/vulnerability (special factor of neuroticism),GCST007708,30867560,gwas_catalog,18485882,1115610,724866,30,4.63e-02,1.27e-02
+Extraversion,GCST003120,26362575,gwas_catalog,6941603,1079713,1009844,20,5.15e-02,5.49e-03
+Intelligence,GCST006250,29942086,gwas_catalog,9295118,1109972,1033998,30,2.12e-01,2.80e-02
+Intelligence (childhood),GCST001837,23358156,gwas_catalog,1380158,760999,720130,27,2.26e-01,5.17e-03
+General risk tolerance,GCST007322,30643258,gwas_catalog,11514381,1115155,1041767,30,2.54e-02,1.43e-02
+Risk-taking tendency (4-domain principal component model),GCST007323,30643258,gwas_catalog,11514862,1115155,1039844,30,1.13e-01,1.71e-02
+Smoking status (ever vs never smokers),GCST007327,30643258,gwas_catalog,11514654,1115159,1036617,30,9.17e-02,2.01e-02
+Smoking cessation,GCST007460,30643251,gwas_catalog,12197133,1115491,1046688,30,1.70e-02,4.24e-03
+Age of smoking initiation,GCST007458,30643251,gwas_catalog,11983806,1115660,1046333,30,3.73e-02,7.53e-03
+Urinary albumin excretion,GCST006586,30220432,gwas_catalog,11709857,1115411,1039713,30,4.74e-02,9.54e-03
+Ambidextrousness,GCST007593,30980028,gwas_catalog,9859367,1105911,1033160,21,8.44e-02,2.99e-03
+Handedness (Left-handed vs. non-left-handed),GCST007592,30980028,gwas_catalog,15053982,1113988,1038508,30,5.05e-02,5.77e-03
+Handedness (Right-handed vs. non-right-handed),GCST007594,30980028,gwas_catalog,15053982,1113988,1038509,30,4.61e-02,6.22e-03
+Household income,GCST009523,31844048,gwas_catalog,7651458,1104556,726406,30,7.04e-02,1.84e-02
+Heavy menstrual bleeding,GCST009157,31649266,gwas_catalog,15315894,1117801,1041945,16,7.95e-02,2.73e-03
+Multisite chronic pain,GCST008512,31194737,gwas_catalog,9926106,1115998,1041050,30,7.82e-02,1.80e-02
+Alzheimer's disease or family history of Alzheimer's disease,GCST007320,30617256,gwas_catalog,13309438,1118197,1036720,30,3.17e-02,4.83e-04
+Glomerular filtration rate in diabetics (creatinine),GCST003373,26831199,gwas_catalog,2197001,925563,874432,6,9.79e-02,1.92e-03
+Glomerular filtration rate in non diabetics (creatinine),GCST003401,26831199,gwas_catalog,2198287,926419,874438,30,1.08e-01,3.76e-03
+Major depressive disorder in trauma exposed individuals,GCST009980,31969693,gwas_catalog,7790497,1112842,859450,12,9.49e-02,3.54e-03
+Modified Stumvoll Insulin Sensitivity Index (model adjusted for BMI),GCST003658,27416945,gwas_catalog,2423397,1005695,941106,14,8.18e-02,1.15e-03
+Offspring birth weight,GCST005314,29309628,gwas_catalog,8741106,1107250,1034653,30,9.54e-02,4.75e-03
+Osteoarthritis of the hip or knee (hospital diagnosed),GCST005812,29559693,gwas_catalog,16396089,1109395,1041035,22,6.56e-02,2.81e-03
+Trauma exposure in major depressive disorder,GCST009983,31969693,gwas_catalog,7790497,1112842,865125,15,8.66e-02,3.08e-03
+Uterine fibroids and heavy menstrual bleeding,GCST009156,31649266,gwas_catalog,15316529,1117801,1041947,13,1.16e-01,1.22e-03
+Educational attainment,GA53,27225129,GWASAtlas,8146840,1109628,907965,30,7.45e-02,1.23e-02
+Subjective well being,GA54,27089181,GWASAtlas,2268674,957911,901040,30,4.31e-02,1.37e-02
+Depressive symptoms,GA56,27089181,GWASAtlas,6524474,1061977,852089,30,5.09e-02,8.28e-03
+Insulin sensitivity index,GA64,27416945,GWASAtlas,2423410,1005702,943004,10,6.02e-02,1.59e-03
+Insulin sensitivity index,GA65,27416945,GWASAtlas,2423397,1005695,941106,16,8.87e-02,1.23e-03
+Body Mass Index,GA90,26604143,GWASAtlas,2432482,1003108,940757,30,2.21e-01,3.48e-03
+Birth length,GA93,25281659,GWASAtlas,2177269,928954,872610,21,1.53e-01,4.11e-03
+Body Mass Index,GA149,26426971,GWASAtlas,2407668,981226,924581,30,1.22e-01,5.22e-03
+Body Mass Index,GA150,26426971,GWASAtlas,2407629,981225,924620,30,1.52e-01,3.43e-03
+Waist-hip ratio,GA151,26426971,GWASAtlas,2366560,968590,913459,23,7.67e-02,3.18e-03
+Waist-hip ratio,GA152,26426971,GWASAtlas,2366524,968590,913069,15,6.32e-02,1.64e-03
+Hip circumference,GA165,25673412,GWASAtlas,2457882,1000898,940846,30,7.15e-02,1.41e-03
+Intelligence,GA209,28530673,GWASAtlas,12104294,1114359,1043145,30,2.03e-01,1.25e-02
+Alcohol intake,GA1213,27911795,GWASAtlas,2462742,1007013,944608,26,6.06e-02,5.10e-03
+Alcohol intake,GA1214,27911795,GWASAtlas,2453474,1005305,944499,25,1.17e-01,4.97e-03
+Alcohol intake,GA1215,27911795,GWASAtlas,2458827,1006462,944216,11,4.11e-02,2.86e-03
+Alcohol intake,GA1216,27911795,GWASAtlas,2479615,1010243,895695,3,3.04e-03,3.57e-04
+Alcohol intake,GA1217,27911795,GWASAtlas,2457015,1006996,945367,4,3.37e-02,1.67e-03
+Alcohol intake,GA1218,27911795,GWASAtlas,2477318,1009901,895353,6,1.63e-02,6.84e-04
+Height,GA3187,31427789,GWASAtlas,10599054,1075357,1003950,30,7.06e-01,4.18e-02
+Pulse rate,GA3188,31427789,GWASAtlas,10534620,1075357,1003959,30,1.38e-01,9.36e-03
+Number of self-reported cancers,GA3189,31427789,GWASAtlas,10599054,1075357,1003947,26,8.82e-03,1.50e-03
+Number of self-reported non-cancer illnesses,GA3190,31427789,GWASAtlas,10599054,1075357,1003940,30,7.66e-02,1.86e-02
+Number of treatments/medications taken,GA3191,31427789,GWASAtlas,10599054,1075357,1003942,30,8.15e-02,1.79e-02
+Length of time at current address,GA3192,31427789,GWASAtlas,10599054,1075357,1003934,30,3.41e-02,1.09e-02
+Number in household,GA3193,31427789,GWASAtlas,10599054,1075357,1003929,22,1.00e-02,5.23e-03
+Number of vehicles in household,GA3194,31427789,GWASAtlas,10599054,1075357,1003948,30,2.47e-02,9.09e-03
+Household income,GA3195,31427789,GWASAtlas,10456754,1075357,1003955,30,8.54e-02,2.08e-02
+Time employed in main current job,GA3196,31427789,GWASAtlas,10005931,1075357,1003954,23,1.41e-02,4.18e-03
+Length of working week for main job,GA3197,31427789,GWASAtlas,10047586,1075357,1003944,29,2.31e-02,5.65e-03
+Frequency of travelling from home to job workplace,GA3198,31427789,GWASAtlas,10042459,1075357,1003963,29,2.20e-02,5.89e-03
+Distance between home and job workplace,GA3199,31427789,GWASAtlas,9898434,1075356,1003926,12,7.94e-03,3.75e-04
+Job involves mainly walking or standing,GA3200,31427789,GWASAtlas,10058173,1075357,1003945,30,7.45e-02,1.36e-02
+Job involves heavy manual or physical work,GA3201,31427789,GWASAtlas,10058173,1075357,1003947,30,7.71e-02,1.33e-02
+Job involves shift work,GA3202,31427789,GWASAtlas,10058173,1075357,1003944,30,3.71e-02,9.81e-03
+Age completed full time education,GA3203,31427789,GWASAtlas,10191033,1075357,1003950,30,6.40e-02,1.50e-02
+Number of days/week walked 10+ minutes,GA3204,31427789,GWASAtlas,10589580,1075357,1003950,30,4.40e-02,1.30e-02
+Duration of walks,GA3205,31427789,GWASAtlas,10456754,1075357,1003953,30,3.71e-02,1.20e-02
+Number of days/week of moderate physical activity,GA3206,31427789,GWASAtlas,10552592,1075357,1003948,30,4.03e-02,1.20e-02
+Duration of moderate activity,GA3207,31427789,GWASAtlas,10314367,1075357,1003947,30,3.15e-02,8.38e-03
+Number of days/week of vigorous physical activity,GA3208,31427789,GWASAtlas,10552592,1075357,1003950,30,3.73e-02,1.18e-02
+Duration of vigorous activity,GA3209,31427789,GWASAtlas,10016340,1075357,1003957,28,2.13e-02,5.38e-03
+Usual walking pace,GA3210,31427789,GWASAtlas,10599054,1075357,1003948,30,7.76e-02,1.96e-02
+Frequency of stair climbing in last 4 weeks,GA3211,31427789,GWASAtlas,10589580,1075357,1003946,30,3.55e-02,1.18e-02
+Frequency of walking for pleasure in last 4 weeks,GA3212,31427789,GWASAtlas,10270424,1075357,1003952,30,3.49e-02,9.61e-03
+Duration walking for pleasure,GA3213,31427789,GWASAtlas,10270424,1075357,1003945,30,2.60e-02,8.16e-03
+Frequency of light DIY in last 4 weeks,GA3214,31427789,GWASAtlas,9929781,1075357,1003970,29,2.25e-02,5.13e-03
+Duration of light DIY,GA3215,31427789,GWASAtlas,9925000,1075357,1003971,30,3.53e-02,6.74e-03
+Frequency of friend/family visits,GA3216,31427789,GWASAtlas,10599054,1075357,1003947,30,3.75e-02,1.23e-02
+Time spend outdoors in summer,GA3217,31427789,GWASAtlas,10507613,1075357,1003944,30,8.81e-02,1.97e-02
+Time spent outdoors in winter,GA3218,31427789,GWASAtlas,10367817,1075357,1003940,30,6.16e-02,1.61e-02
+Time spent watching television,GA3219,31427789,GWASAtlas,10545103,1075357,1003959,30,1.29e-01,2.72e-02
+Time spent using computer,GA3220,31427789,GWASAtlas,10360012,1075357,1003959,30,8.50e-02,2.27e-02
+Time spent driving,GA3221,31427789,GWASAtlas,10209304,1075357,1003955,30,3.61e-02,9.80e-03
+Automobile driving speed,GA3222,31427789,GWASAtlas,10507613,1075357,1003944,30,6.12e-02,1.49e-02
+Length of mobile phone use,GA3223,31427789,GWASAtlas,10589580,1075357,1003943,30,5.58e-02,1.50e-02
+Weekly usage of mobile phone in last 3 months,GA3224,31427789,GWASAtlas,10431635,1075357,1003950,30,4.97e-02,1.34e-02
+Hands-free device/speakerphone use with mobile phone in last 3 month,GA3225,31427789,GWASAtlas,10431635,1075357,1003950,30,2.64e-02,8.03e-03
+Difference in mobile phone use compared to two years previously,GA3226,31427789,GWASAtlas,10415538,1075357,1003951,24,1.29e-02,4.81e-03
+Usual side of head for mobile phone use,GA3227,31427789,GWASAtlas,10431635,1075357,1003940,30,2.45e-02,8.19e-03
+Getting up in morning,GA3229,31427789,GWASAtlas,10599054,1075357,1003945,30,7.78e-02,1.71e-02
+Chronotype,GA3230,31427789,GWASAtlas,10490463,1075357,1003938,30,1.20e-01,1.87e-02
+Nap,GA3231,31427789,GWASAtlas,10599054,1075357,1003940,30,8.30e-02,1.59e-02
+Insomnia,GA3232,31427789,GWASAtlas,10599054,1075357,1003949,30,6.10e-02,1.54e-02
+Narcolepsy,GA3234,31427789,GWASAtlas,10599054,1075357,1003938,30,4.78e-02,1.21e-02
+Current tobacco smoking,GA3235,31427789,GWASAtlas,10599054,1075357,1003946,30,4.25e-02,1.23e-02
+Past tobacco smoking,GA3236,31427789,GWASAtlas,10525843,1075357,1003952,30,9.61e-02,1.91e-02
+Smoking/smokers in household,GA3237,31427789,GWASAtlas,10525843,1075357,1003962,23,1.09e-02,4.57e-03
+Exposure to tobacco smoke outside home,GA3239,31427789,GWASAtlas,10440064,1075357,1003961,26,1.19e-02,5.12e-03
+Cooked vegetable intake,GA3240,31427789,GWASAtlas,10570778,1075357,1003956,30,4.66e-02,1.58e-02
+Salad / raw vegetable intake,GA3241,31427789,GWASAtlas,10543361,1075357,1003954,30,1.14e-01,3.94e-02
+Fresh fruit intake,GA3242,31427789,GWASAtlas,10570778,1075357,1003955,30,8.27e-02,2.12e-02
+Dried fruit intake,GA3243,31427789,GWASAtlas,10515459,1075357,1003940,30,5.07e-02,1.77e-02
+Oily fish intake,GA3244,31427789,GWASAtlas,10599054,1075357,1003940,30,7.78e-02,1.88e-02
+Non-oily fish intake,GA3245,31427789,GWASAtlas,10599054,1075357,1003947,30,3.21e-02,1.01e-02
+Processed meat intake,GA3246,31427789,GWASAtlas,10599054,1075357,1003948,30,9.40e-02,3.08e-02
+Poultry intake,GA3247,31427789,GWASAtlas,10599054,1075357,1003945,30,3.71e-02,1.27e-02
+Beef intake,GA3248,31427789,GWASAtlas,10599054,1075357,1003943,30,4.64e-02,1.54e-02
+Lamb/mutton intake,GA3249,31427789,GWASAtlas,10599054,1075357,1003944,30,5.10e-02,1.48e-02
+Pork intake,GA3250,31427789,GWASAtlas,10599054,1075357,1003947,30,5.89e-02,2.17e-02
+Cheese intake,GA3251,31427789,GWASAtlas,10579925,1075357,1003941,30,1.27e-01,3.74e-02
+Bread intake,GA3252,31427789,GWASAtlas,10579925,1075357,1003946,30,4.90e-02,1.37e-02
+Cereal intake,GA3253,31427789,GWASAtlas,10559922,1075357,1003948,30,7.02e-02,1.82e-02
+Salt added to food,GA3254,31427789,GWASAtlas,10599054,1075357,1003941,30,8.98e-02,1.78e-02
+Tea intake,GA3255,31427789,GWASAtlas,10570778,1075357,1003948,30,7.01e-02,1.55e-02
+Coffee intake,GA3256,31427789,GWASAtlas,10525843,1075357,1003946,30,4.92e-02,6.98e-03
+Hot drink temperature,GA3257,31427789,GWASAtlas,10589580,1075357,1003960,30,8.04e-02,1.82e-02
+Water intake,GA3258,31427789,GWASAtlas,10525843,1075357,1003946,30,8.08e-02,2.03e-02
+Major dietary changes in the last 5 years,GA3259,31427789,GWASAtlas,10599054,1075357,1003563,30,4.10e-02,1.17e-02
+Variation in diet,GA3260,31427789,GWASAtlas,10599054,1075357,1003947,30,4.14e-02,1.26e-02
+Alcohol intake frequency,GA3261,31427789,GWASAtlas,10599054,1075357,1003949,30,1.03e-01,2.34e-02
+Red wine intake,GA3262,31427789,GWASAtlas,10263295,1075357,1003959,30,2.78e-02,7.28e-03
+Champagne/white wine intake,GA3263,31427789,GWASAtlas,10263295,1075357,1003954,30,2.41e-02,6.23e-03
+Beer/cider intake,GA3264,31427789,GWASAtlas,10265452,1075357,1003960,30,8.57e-02,1.99e-02
+Spirits intake,GA3265,31427789,GWASAtlas,10263295,1075357,1003955,27,1.78e-02,5.58e-03
+Fortifield wine intake,GA3266,31427789,GWASAtlas,10264107,1075357,1003967,6,6.13e-04,1.21e-03
+Alcohol usually taken with meals,GA3267,31427789,GWASAtlas,9957282,1075357,1008964,30,1.35e-01,2.05e-02
+Alcohol intake versus 10 years previously,GA3268,31427789,GWASAtlas,10525843,1075357,1003947,30,3.11e-02,9.30e-03
+Breastfed as a baby,GA3269,31427789,GWASAtlas,10336466,1075357,1006310,30,3.34e-02,8.25e-03
+Comparative body size,GA3270,31427789,GWASAtlas,10589580,1075357,1003955,30,1.41e-01,1.40e-02
+Comparative height size,GA3271,31427789,GWASAtlas,10589580,1075357,1003946,30,2.80e-01,1.63e-02
+Handedness,GA3272,31427789,GWASAtlas,10599054,1075357,1003942,28,1.16e-02,4.88e-03
+Skin colour,GA3273,31427789,GWASAtlas,10589580,1075357,1003938,30,1.77e-01,2.91e-03
+Ease of skin tanning,GA3274,31427789,GWASAtlas,10579925,1075357,1003946,30,4.19e-01,2.39e-02
+Childhood sunburn occasions,GA3275,31427789,GWASAtlas,10321705,1075357,1003768,30,2.37e-02,8.67e-04
+Facial ageing,GA3276,31427789,GWASAtlas,10516531,1075357,1003952,30,8.40e-02,1.40e-02
+Maternal smoking around birth,GA3277,31427789,GWASAtlas,10456754,1075357,1004204,30,6.80e-02,1.73e-02
+Father still alive,GA3278,31427789,GWASAtlas,10575403,1075357,1010447,28,2.59e-02,8.23e-03
+Father's age at death,GA3279,31427789,GWASAtlas,10299330,1075357,1003955,30,2.34e-02,6.36e-03
+Mother still alive,GA3280,31427789,GWASAtlas,10589580,1075357,1010436,28,1.84e-02,6.25e-03
+Mother's age,GA3281,31427789,GWASAtlas,9718062,1075356,1003955,30,5.17e-02,8.71e-03
+Number of full brothers,GA3282,31427789,GWASAtlas,10589580,1075357,1003942,30,1.14e-01,4.93e-02
+Number of full sisters,GA3283,31427789,GWASAtlas,10589580,1075357,1003952,30,1.11e-01,4.72e-02
+Mood swings,GA3284,31427789,GWASAtlas,10579925,1075357,1004746,30,6.47e-02,1.60e-02
+Miserableness,GA3285,31427789,GWASAtlas,10589580,1075357,1005434,30,5.85e-02,1.47e-02
+Irritability,GA3286,31427789,GWASAtlas,10561682,1075357,1004176,30,8.33e-02,1.72e-02
+Sensitivity,GA3287,31427789,GWASAtlas,10570778,1075357,1005444,30,6.43e-02,1.57e-02
+Fed-up,GA3288,31427789,GWASAtlas,10579925,1075357,1004979,30,6.67e-02,1.66e-02
+Nervous,GA3289,31427789,GWASAtlas,10579925,1075357,1003796,30,8.74e-02,1.53e-02
+Anxious,GA3290,31427789,GWASAtlas,10579925,1075357,1004871,30,7.93e-02,1.82e-02
+Tense,GA3291,31427789,GWASAtlas,10570778,1075357,1003722,30,1.00e-01,1.58e-02
+Worry too long after embarrassment,GA3292,31427789,GWASAtlas,10561682,1075357,1004520,30,6.30e-02,1.57e-02
+Suffer from nerves,GA3293,31427789,GWASAtlas,10564477,1075357,1003576,30,6.09e-02,1.17e-02
+Loneliness,GA3294,31427789,GWASAtlas,10589580,1075357,1004670,30,6.10e-02,1.28e-02
+Guilty feelings,GA3295,31427789,GWASAtlas,10579925,1075357,1004637,30,6.12e-02,1.40e-02
+Risk taking,GA3296,31427789,GWASAtlas,10570778,1075357,1005609,30,8.32e-02,1.86e-02
+Frequency of depressed mood in last 2 weeks,GA3297,31427789,GWASAtlas,10561682,1075357,1003944,30,3.93e-02,1.22e-02
+Frequency of unenthusiasm / disinterest in last 2 weeks,GA3298,31427789,GWASAtlas,10570778,1075357,1003946,30,3.85e-02,1.33e-02
+Frequency of tenseness / restlessness in last 2 weeks,GA3299,31427789,GWASAtlas,10561682,1075357,1003944,30,4.38e-02,1.27e-02
+Frequency of tiredness / lethargy in last 2 weeks,GA3300,31427789,GWASAtlas,10570778,1075357,1003949,30,5.48e-02,1.48e-02
+"Seen doctor (GP) for nerves, anxiety, tension or depression",GA3301,31427789,GWASAtlas,10599054,1075357,1005229,30,6.42e-02,1.50e-02
+"Seen a psychiatrist for nerves, anxiety, tension or depression",GA3302,31427789,GWASAtlas,10599053,1075357,1003843,30,7.47e-02,1.05e-02
+Able to confide,GA3303,31427789,GWASAtlas,10570778,1075357,1003948,30,4.11e-02,1.31e-02
+Age first had sexual intercourse,GA3304,31427789,GWASAtlas,10480861,1075357,1003948,30,1.23e-01,2.29e-02
+Number of sexual partners,GA3305,31427789,GWASAtlas,10407572,1075357,1002847,20,1.91e-02,1.31e-03
+Ever had same-sex intercourse,GA3306,31427789,GWASAtlas,10502857,1075357,1005148,26,9.58e-02,5.59e-03
+Health rating,GA3307,31427789,GWASAtlas,10599054,1075357,1003950,30,9.02e-02,2.09e-02
+"Long-standing illness, disability or infirmity",GA3308,31427789,GWASAtlas,10579925,1075357,1005365,30,5.65e-02,1.37e-02
+Wears glasses or contact lenses,GA3309,31427789,GWASAtlas,10599054,1075357,1009272,16,3.01e-02,5.08e-03
+Age started wearing glasses or contact lenses,GA3310,31427789,GWASAtlas,10456754,1075357,1003955,30,1.15e-01,1.54e-02
+Other eye problems,GA3311,31427789,GWASAtlas,10599054,1075357,1003772,27,2.47e-02,6.01e-03
+Electronic device use - Plays computer games,GA3312,31427789,GWASAtlas,10599054,1075357,1003949,30,7.77e-02,1.99e-02
+Hearing difficulty/problems,GA3313,31427789,GWASAtlas,10561682,1075357,1005394,30,5.33e-02,8.84e-03
+Hearing difficulty/problems with background noise,GA3314,31427789,GWASAtlas,10579925,1075357,1004952,30,5.77e-02,1.43e-02
+Use of sun/uv protection,GA3315,31427789,GWASAtlas,10599054,1075357,1003941,30,6.42e-02,8.64e-03
+Frequency of solarium/sunlamp use,GA3316,31427789,GWASAtlas,10599054,1075357,1003922,14,6.26e-03,2.08e-03
+Falls in the last year,GA3317,31427789,GWASAtlas,10599054,1075357,1003946,30,2.80e-02,9.89e-03
+Weight change,GA3318,31427789,GWASAtlas,10589580,1075357,1003950,21,1.11e-02,5.20e-03
+Wheeze/whistling,GA3319,31427789,GWASAtlas,10579925,1075357,1004357,30,8.47e-02,1.17e-02
+Chest pain or discomfort,GA3320,31427789,GWASAtlas,10589580,1075357,1003801,30,5.59e-02,1.06e-02
+Ever had bowel cancer screening,GA3321,31427789,GWASAtlas,10589580,1075357,1009541,24,1.24e-02,4.63e-03
+Most recent bowel cancer screening,GA3322,31427789,GWASAtlas,9516104,1075356,1003949,6,6.63e-03,6.70e-04
+Ever had prostate specific antigen (PSA) test,GA3323,31427789,GWASAtlas,9811940,1075356,1009093,29,3.56e-02,5.63e-03
+Relative age of first facial hair,GA3324,31427789,GWASAtlas,9827540,1075356,1003964,30,1.42e-01,7.95e-03
+Relative age voice broke,GA3325,31427789,GWASAtlas,9789419,1075356,1003957,30,6.90e-02,5.43e-03
+Number of children fathered,GA3326,31427789,GWASAtlas,9851898,1075356,1003952,30,5.90e-02,1.11e-02
+Had major operations,GA3327,31427789,GWASAtlas,9851898,1075356,1004331,29,3.10e-02,6.28e-03
+Diabetes,GA3328,31427789,GWASAtlas,10598160,1075357,1004345,30,2.64e-01,5.29e-03
+Cancer,GA3329,31427789,GWASAtlas,10599026,1075357,1004255,30,3.04e-02,1.87e-03
+Fractured/broken bones in last 5 years,GA3330,31427789,GWASAtlas,10599054,1075357,1003219,30,4.90e-02,3.48e-03
+Other serious medical condition/disability (diagnosed by doctor),GA3331,31427789,GWASAtlas,10581460,1075357,1003960,30,3.86e-02,9.11e-03
+Taking other prescription medications,GA3332,31427789,GWASAtlas,10599054,1075357,1006241,30,4.56e-02,1.20e-02
+Frequency of heavy DIY in last 4 weeks,GA3333,31427789,GWASAtlas,9728048,1075356,1003957,15,2.01e-02,4.27e-03
+Duration of heavy DIY,GA3334,31427789,GWASAtlas,9729449,1075356,1003964,30,3.34e-02,6.66e-03
+Light smokers,GA3335,31427789,GWASAtlas,9426121,1075354,1004460,30,7.14e-02,6.00e-03
+Ever had breast cancer screening / mammogram,GA3336,31427789,GWASAtlas,10005931,1075357,1006991,8,1.08e-02,1.34e-03
+Years since last breast cancer screening / mammogram,GA3337,31427789,GWASAtlas,9781779,1075356,1003944,6,4.08e-03,1.27e-03
+Years since last cervical smear test,GA3338,31427789,GWASAtlas,9880943,1075356,1003933,30,3.67e-02,4.43e-03
+Age at menarche,GA3339,31427789,GWASAtlas,9976627,1075357,1003952,30,2.62e-01,1.57e-02
+Had menopause,GA3340,31427789,GWASAtlas,9847781,1075356,974991,30,2.85e-02,3.24e-04
+Number of children ever born,GA3341,31427789,GWASAtlas,10005931,1075357,1003947,30,7.13e-02,1.27e-02
+Birth weight of first child,GA3342,31427789,GWASAtlas,9796962,1075356,1003955,30,1.17e-01,8.34e-03
+Age at first birth,GA3343,31427789,GWASAtlas,9656571,1075356,1003952,30,1.72e-01,1.89e-02
+Age at last birth,GA3344,31427789,GWASAtlas,9656571,1075356,1003943,30,8.38e-02,1.15e-02
+"Ever had stillbirth, spontaneous miscarriage or termination",GA3345,31427789,GWASAtlas,9990728,1075357,1003665,20,1.65e-02,4.00e-03
+Ever taken oral contraceptive pill,GA3346,31427789,GWASAtlas,10005147,1075357,1006893,28,5.11e-02,8.16e-03
+Age started oral contraceptive pill,GA3347,31427789,GWASAtlas,9793265,1075356,1003945,30,5.10e-02,9.38e-03
+Age when last used oral contraceptive pill,GA3348,31427789,GWASAtlas,9707889,1075356,1003947,24,2.79e-02,5.52e-03
+Ever used hormone-replacement therapy (HRT),GA3349,31427789,GWASAtlas,10000953,1075357,1009771,30,4.89e-02,7.57e-03
+Bilateral oophorectomy (both ovaries removed),GA3350,31427789,GWASAtlas,9990717,1075357,1004229,27,7.36e-02,3.58e-03
+Had other major operations,GA3351,31427789,GWASAtlas,9995861,1075357,1004327,29,3.45e-02,6.68e-03
+Age of smoking initiation,GA3352,31427789,GWASAtlas,9349484,1075351,1003933,27,3.92e-02,4.97e-03
+Cigarettes per day,GA3353,31427789,GWASAtlas,9313046,1075350,1003930,30,8.76e-02,3.85e-03
+Age stopped smoking,GA3354,31427789,GWASAtlas,9348242,1075351,1003921,19,4.13e-02,4.61e-03
+Ever stopped smoking for 6+ months,GA3355,31427789,GWASAtlas,9341256,1075351,1003641,18,1.98e-02,1.78e-03
+Number of unsuccessful stop-smoking attempts,GA3356,31427789,GWASAtlas,9285213,1075350,1003971,7,1.55e-02,9.07e-04
+Likelihood of resuming smoking,GA3357,31427789,GWASAtlas,9336154,1075350,1003932,5,9.62e-03,1.09e-03
+Father's age,GA3358,31427789,GWASAtlas,9288158,1075350,1003967,30,7.85e-02,8.16e-03
+Age high blood pressure diagnosed,GA3359,31427789,GWASAtlas,9331196,1075350,1003938,30,5.64e-02,3.75e-03
+Hearing aid user,GA3360,31427789,GWASAtlas,10117826,1075357,1005008,25,6.96e-02,2.54e-03
+Neck/shoulder pain for 3+ months,GA3361,31427789,GWASAtlas,9291251,1075350,1004357,8,2.32e-02,2.14e-03
+Mother's age at death,GA3362,31427789,GWASAtlas,10085556,1075357,1003930,16,1.42e-02,4.02e-03
+Age started hormone-replacement therapy (HRT),GA3363,31427789,GWASAtlas,9175841,1075344,1003940,30,6.43e-02,3.25e-03
+Age last used hormone-replacement therapy (HRT),GA3364,31427789,GWASAtlas,9063334,1075325,1003956,14,3.36e-02,2.49e-03
+Back pain for 3+ months,GA3365,31427789,GWASAtlas,9368575,1075352,1003984,20,3.14e-02,3.61e-03
+Age at menopause,GA3366,31427789,GWASAtlas,9518547,1075356,1003952,30,1.14e-01,2.35e-03
+Ever had hysterectomy (womb removed) (female),GA3367,31427789,GWASAtlas,9893996,1075356,1006028,25,8.36e-02,4.62e-03
+Chest pain or discomfort walking normally,GA3368,31427789,GWASAtlas,9060653,1075324,1005997,21,9.57e-02,4.32e-03
+Frequency of other exercises in last 4 weeks,GA3369,31427789,GWASAtlas,9894142,1075356,1003969,26,2.25e-02,4.38e-03
+Duration of other exercises,GA3370,31427789,GWASAtlas,9894142,1075356,1003968,25,1.83e-02,5.12e-03
+Chest pain or discomfort when walking uphill or hurrying,GA3371,31427789,GWASAtlas,8934058,1075271,1006661,19,6.06e-02,3.62e-03
+"Age hay fever, rhinitis or eczema diagnosed",GA3372,31427789,GWASAtlas,9214595,1075345,1003929,30,1.08e-01,3.30e-03
+Knee pain for 3+ months,GA3373,31427789,GWASAtlas,9243234,1075346,1003936,8,2.77e-02,2.35e-03
+Headaches for 3+ months,GA3374,31427789,GWASAtlas,9200879,1075345,1004364,28,6.41e-02,4.41e-03
+Time since last prostate specific antigen (PSA) test,GA3375,31427789,GWASAtlas,8969086,1075286,1003934,4,8.89e-03,4.97e-04
+Number of stillbirths,GA3376,31427789,GWASAtlas,9112883,1075336,1003940,10,1.78e-02,2.31e-03
+Number of spontaneous miscarriages,GA3377,31427789,GWASAtlas,9110820,1075336,1003940,7,1.21e-02,2.27e-03
+Number of pregnancy terminations,GA3378,31427789,GWASAtlas,9108833,1075336,1003942,26,6.88e-02,5.84e-03
+Diastolic Blood Pressure,GA3379,31427789,GWASAtlas,10534620,1075357,1003957,30,1.38e-01,1.68e-02
+Systolic Blood Pressure,GA3380,31427789,GWASAtlas,10534620,1075357,1003955,30,1.51e-01,1.81e-02
+Prospective memory test - Time to answer,GA3381,31427789,GWASAtlas,9580562,1075356,1003969,30,6.47e-02,8.94e-03
+Prospective memory test - Duration screen displayed,GA3382,31427789,GWASAtlas,9580562,1075356,1003968,30,7.11e-02,1.03e-02
+Prospective memory test - Number of attempts,GA3383,31427789,GWASAtlas,9580562,1075356,1003997,29,4.93e-02,7.63e-03
+Non-accidental death in close genetic family,GA3384,31427789,GWASAtlas,9538581,1075356,1003798,13,1.86e-02,1.67e-03
+Happiness,GA3385,31427789,GWASAtlas,9580562,1075356,1003972,30,7.11e-02,9.49e-03
+Work/job satisfaction,GA3386,31427789,GWASAtlas,9580258,1075356,1003961,18,2.21e-02,4.01e-03
+Health satisfaction,GA3387,31427789,GWASAtlas,9580562,1075356,1003966,30,7.58e-02,9.62e-03
+Family relationship satisfaction,GA3388,31427789,GWASAtlas,9575152,1075356,1003958,30,5.89e-02,7.87e-03
+Friendships satisfaction,GA3389,31427789,GWASAtlas,9572440,1075356,1003953,30,6.50e-02,8.32e-03
+Financial situation satisfaction,GA3390,31427789,GWASAtlas,9577829,1075356,1003965,30,4.92e-02,7.15e-03
+Ever depressed for a whole week,GA3391,31427789,GWASAtlas,9567039,1075356,1004703,30,5.42e-02,6.64e-03
+Longest period of depression,GA3392,31427789,GWASAtlas,9005965,1075314,1003971,6,6.34e-03,2.08e-03
+Ever unenthusiastic/disinterested for a whole week,GA3394,31427789,GWASAtlas,9548951,1075356,1004749,30,5.31e-02,6.06e-03
+Ever highly irritable/argumentative for 2 days,GA3395,31427789,GWASAtlas,9564533,1075356,1004712,30,7.77e-02,6.35e-03
+Other sociodemographic factors - Private healthcare,GA3396,31427789,GWASAtlas,9577829,1075356,1003959,26,2.99e-02,5.06e-03
+Shortness of breath walking on level ground,GA3397,31427789,GWASAtlas,9569781,1075356,1004660,30,1.21e-01,6.97e-03
+Leg pain on walking,GA3398,31427789,GWASAtlas,9575152,1075356,1004662,30,7.30e-02,7.07e-03
+Tinnitus,GA3399,31427789,GWASAtlas,9567039,1075356,1003964,30,5.86e-02,7.15e-03
+Noisy workplace,GA3400,31427789,GWASAtlas,9575152,1075356,1003964,30,5.17e-02,7.64e-03
+Loud music exposure frequency,GA3401,31427789,GWASAtlas,9572429,1075356,1003954,26,2.99e-02,4.99e-03
+Fluid intelligence test - FI7 : synonym,GA3405,31427789,GWASAtlas,9311462,1075350,1003530,28,1.34e-01,6.09e-03
+Number of older siblings,GA3407,31427789,GWASAtlas,9465132,1075356,1003965,23,5.46e-02,7.97e-03
+Educational attainment,GA3409,31427789,GWASAtlas,10415538,1075357,1003945,30,1.77e-01,3.71e-02
+Interpolated Year when non-cancer illness first diagnosed,GA3410,31427789,GWASAtlas,10277566,1075357,1003959,30,2.30e-02,3.84e-03
+Interpolated Age of participant when non-cancer illness first diagnosed,GA3411,31427789,GWASAtlas,10277566,1075357,1003960,30,2.29e-02,3.80e-03
+Sitting height,GA3412,31427789,GWASAtlas,10599054,1075357,1003952,30,4.23e-01,2.55e-02
+Intelligence,GA3413,31427789,GWASAtlas,9561902,1075356,1003971,30,2.72e-01,2.22e-02
+Reaction time,GA3415,31427789,GWASAtlas,10599054,1075357,1003942,30,8.88e-02,2.43e-02
+Bipolar/Major depression,GA3416,31427789,GWASAtlas,9337888,1075351,1005069,30,7.71e-02,6.34e-03
+Neuroticism,GA3417,31427789,GWASAtlas,10399545,1075357,1003947,30,1.11e-01,1.88e-02
+Fluid intelligence test - Number of fluid intelligence questions attempted within time limit,GA3418,31427789,GWASAtlas,9561902,1075356,1003974,30,1.41e-01,1.51e-02
+Pairs matching test - Number of correct matches in round,GA3419,31427789,GWASAtlas,9354853,1075351,1003985,4,2.21e-03,1.51e-03
+Pairs matching test - Number of incorrect matches in round,GA3420,31427789,GWASAtlas,9354853,1075351,1003990,23,2.33e-02,3.73e-03
+Pairs matching test - Time to complete round,GA3421,31427789,GWASAtlas,9336150,1075350,1003969,28,4.58e-02,4.93e-03
+Trail making test - Duration to complete numeric path (trail #1),GA3422,31427789,GWASAtlas,9267643,1075349,1003973,23,4.63e-02,4.71e-03
+Trail making test - Duration to complete alphanumeric path (trail #2),GA3423,31427789,GWASAtlas,9267643,1075349,1003965,30,1.16e-01,8.61e-03
+Symbol digit substitution test - Number of symbol digit matches made correctly,GA3424,31427789,GWASAtlas,9354853,1075351,1003961,30,1.22e-01,1.04e-02
+Ever vs never smokers,GA3425,31427789,GWASAtlas,10599054,1075357,1004835,30,8.54e-02,1.87e-02
+Fluid intelligence test - FI4 : positional arithmetic,GA3427,31427789,GWASAtlas,9377412,1075353,1003468,9,7.60e-02,3.37e-03
+Fluid intelligence test - Fluid intelligence score,GA3431,31427789,GWASAtlas,9382912,1075353,1003967,30,1.84e-01,1.36e-02
+Symbol digit substitution test - Number of symbol digit matches attempted,GA3432,31427789,GWASAtlas,9354853,1075351,1003967,30,1.36e-01,1.14e-02
+Symbol digit substitution test - Duration to entering value,GA3433,31427789,GWASAtlas,9356415,1075351,1003970,21,2.49e-02,4.07e-03
+Numeric memory test - Maximum digits remembered correctly,GA3434,31427789,GWASAtlas,9309858,1075350,1003985,30,1.12e-01,9.09e-03
+Weight,GA3436,31427789,GWASAtlas,10599054,1075357,1003943,30,3.07e-01,3.51e-02
+Doctor diagnosed hayfever or allergic rhinitis,GA3437,31427789,GWASAtlas,9368598,1075352,1003757,30,1.03e-01,2.56e-03
+Asthma,GA3438,31427789,GWASAtlas,9368597,1075352,1003459,30,1.15e-01,1.37e-03
+Tobacco smoking,GA3439,31427789,GWASAtlas,9365168,1075352,1003976,30,7.74e-02,7.08e-03
+Impedance measures - Weight,GA3440,31427789,GWASAtlas,10589580,1075357,1003946,30,3.07e-01,3.47e-02
+Impedance measures - Body fat percentage,GA3441,31427789,GWASAtlas,10588653,1075357,1003948,30,2.57e-01,3.46e-02
+Impedance measures - Whole body fat mass,GA3442,31427789,GWASAtlas,10579925,1075357,1003950,30,2.63e-01,3.39e-02
+Impedance measures - Whole body fat-free mass,GA3443,31427789,GWASAtlas,10589580,1075357,1003953,30,3.67e-01,3.16e-02
+Impedance measures - Whole body water mass,GA3444,31427789,GWASAtlas,10589580,1075357,1003960,30,3.65e-01,3.16e-02
+Impedance measures - Body mass index (BMI),GA3445,31427789,GWASAtlas,10589580,1075357,1003960,30,2.50e-01,2.90e-02
+Impedance measures - Basal metabolic rate,GA3446,31427789,GWASAtlas,10589580,1075357,1003947,30,3.45e-01,3.20e-02
+Impedance measures - Impedance of whole body,GA3447,31427789,GWASAtlas,10589580,1075357,1003952,30,2.74e-01,2.60e-02
+Impedance measures - Impedance of leg (right),GA3448,31427789,GWASAtlas,10589580,1075357,1003941,30,2.56e-01,2.43e-02
+Impedance measures - Impedance of leg (left),GA3449,31427789,GWASAtlas,10589580,1075357,1003950,30,2.57e-01,2.46e-02
+Impedance measures - Impedance of arm (right),GA3450,31427789,GWASAtlas,10589580,1075357,1003943,30,2.35e-01,2.40e-02
+Impedance measures - Impedance of arm (left),GA3451,31427789,GWASAtlas,10589580,1075357,1003956,30,2.42e-01,2.46e-02
+Impedance measures - Leg fat percentage (right),GA3452,31427789,GWASAtlas,10589580,1075357,1003960,30,2.51e-01,3.44e-02
+Impedance measures - Leg fat mass (right),GA3453,31427789,GWASAtlas,10589580,1075357,1003951,30,2.35e-01,3.12e-02
+Impedance measures - Leg fat-free mass (right),GA3454,31427789,GWASAtlas,10589580,1075357,1003945,30,3.13e-01,2.96e-02
+Impedance measures - Leg predicted mass (right),GA3455,31427789,GWASAtlas,10589580,1075357,1003953,30,3.13e-01,2.96e-02
+Impedance measures - Leg fat percentage (left),GA3456,31427789,GWASAtlas,10589580,1075357,1003951,30,2.52e-01,3.44e-02
+Impedance measures - Leg fat mass (left),GA3457,31427789,GWASAtlas,10589580,1075357,1003953,30,2.35e-01,3.10e-02
+Impedance measures - Leg fat-free mass (left),GA3458,31427789,GWASAtlas,10589580,1075357,1003949,30,3.10e-01,3.01e-02
+Impedance measures - Leg predicted mass (left),GA3459,31427789,GWASAtlas,10589580,1075357,1003946,30,3.10e-01,3.00e-02
+Impedance measures - Arm fat percentage (right),GA3460,31427789,GWASAtlas,10589580,1075357,1003957,30,2.34e-01,3.11e-02
+Impedance measures - Arm fat mass (right),GA3461,31427789,GWASAtlas,10589580,1075357,1003945,30,2.21e-01,2.83e-02
+Impedance measures - Arm fat-free mass (right),GA3462,31427789,GWASAtlas,10589580,1075357,1003957,30,3.14e-01,2.99e-02
+Impedance measures - Arm predicted mass (right),GA3463,31427789,GWASAtlas,10589580,1075357,1003949,30,3.13e-01,2.97e-02
+Impedance measures - Arm fat percentage (left),GA3464,31427789,GWASAtlas,10589580,1075357,1003949,30,2.37e-01,3.11e-02
+Impedance measures - Arm fat mass (left),GA3465,31427789,GWASAtlas,10589580,1075357,1003948,30,2.17e-01,2.80e-02
+Impedance measures - Arm fat-free mass (left),GA3466,31427789,GWASAtlas,10588913,1075357,1003959,30,3.16e-01,3.06e-02
+Impedance measures - Arm predicted mass (left),GA3467,31427789,GWASAtlas,10588672,1075357,1003949,30,3.16e-01,3.06e-02
+Impedance measures - Trunk fat percentage,GA3468,31427789,GWASAtlas,10588630,1075357,1003954,30,2.48e-01,3.40e-02
+Impedance measures - Trunk fat mass,GA3469,31427789,GWASAtlas,10588593,1075357,1003948,30,2.74e-01,3.55e-02
+Impedance measures - Trunk fat-free mass,GA3470,31427789,GWASAtlas,10588231,1075357,1003946,30,3.79e-01,3.10e-02
+Impedance measures - Trunk predicted mass,GA3471,31427789,GWASAtlas,10587689,1075357,1003946,30,3.77e-01,3.10e-02
+Age at cancer diagnosis,GA3472,31427789,GWASAtlas,9077725,1075328,1003935,7,3.43e-03,1.31e-03
+Reported occurrences of cancer,GA3473,31427789,GWASAtlas,9077725,1075328,1003936,3,4.52e-03,3.69e-04
+Type of accommodation lived in: A house or bungalow,GA3474,31427789,GWASAtlas,10599054,1075357,1010493,27,3.24e-02,6.81e-03
+"Type of accommodation lived in: A flat, maisonette or apartment",GA3475,31427789,GWASAtlas,10599054,1075357,1010505,25,3.19e-02,6.57e-03
+Own or rent accommodation lived in: Own outright (by you or someone in your household),GA3476,31427789,GWASAtlas,10589580,1075357,1010420,30,2.96e-02,1.25e-02
+Own or rent accommodation lived in: Own with a mortgage,GA3477,31427789,GWASAtlas,10589580,1075357,1010267,28,1.40e-02,6.45e-03
+"Own or rent accommodation lived in: Rent - from local authority, local council, housing association",GA3478,31427789,GWASAtlas,10589020,1075357,1010499,30,1.52e-01,1.41e-02
+Own or rent accommodation lived in: Rent - from private landlord or letting agency,GA3479,31427789,GWASAtlas,10582248,1075357,1004711,27,1.34e-01,8.46e-03
+Milk type used: Full cream,GA3480,31427789,GWASAtlas,10570691,1075357,1004167,30,7.08e-02,6.11e-03
+Milk type used: Semi-skimmed,GA3481,31427789,GWASAtlas,10570778,1075357,1003799,26,1.25e-02,5.19e-03
+Milk type used: Skimmed,GA3482,31427789,GWASAtlas,10570778,1075357,1004389,30,3.23e-02,7.57e-03
+Milk type used: Soya,GA3483,31427789,GWASAtlas,10568091,1075357,1003555,29,1.15e-01,6.73e-03
+Spread type: Butter/spreadable butter,GA3484,31427789,GWASAtlas,10490463,1075357,1004011,30,4.25e-02,1.12e-02
+Bread type: White,GA3485,31427789,GWASAtlas,10570778,1075357,1005417,30,7.42e-02,1.65e-02
+Bread type: Brown,GA3486,31427789,GWASAtlas,10570778,1075357,1003288,29,4.19e-02,7.95e-03
+Bread type: Wholemeal or wholegrain,GA3487,31427789,GWASAtlas,10570778,1075357,1005061,30,5.34e-02,1.48e-02
+Cereal type: Bran cereal,GA3488,31427789,GWASAtlas,10415538,1075357,1003258,23,1.83e-02,4.07e-03
+Cereal type: Biscuit cereal,GA3489,31427789,GWASAtlas,10415538,1075357,1003658,26,2.89e-02,5.93e-03
+Cereal type: Oat cereal,GA3490,31427789,GWASAtlas,10415538,1075357,1004221,30,2.59e-02,7.28e-03
+Cereal type: Muesli,GA3491,31427789,GWASAtlas,10415538,1075357,1004445,30,8.57e-02,1.71e-02
+Coffee type: Decaffeinated coffee,GA3492,31427789,GWASAtlas,10367817,1075357,1004301,29,2.87e-02,6.45e-03
+Coffee type: Instant coffee,GA3493,31427789,GWASAtlas,10367817,1075357,1004865,30,3.87e-02,1.13e-02
+Coffee type: Ground coffee,GA3494,31427789,GWASAtlas,10367817,1075357,1005918,30,1.01e-01,1.83e-02
+Hair colour: Blonde,GA3495,31427789,GWASAtlas,10599015,1075357,1003587,30,3.30e-01,2.18e-03
+Hair colour: Red,GA3496,31427789,GWASAtlas,10594432,1075357,1003140,30,9.52e-01,2.09e-04
+Hair colour: Light brown,GA3497,31427789,GWASAtlas,10599054,1075357,1003348,30,9.81e-02,8.06e-03
+Hair colour: Dark brown,GA3498,31427789,GWASAtlas,10599054,1075357,1003471,30,2.26e-01,8.46e-03
+Bald Pattern 1,GA3500,31427789,GWASAtlas,9851898,1075356,1003809,30,2.52e-01,3.69e-03
+Bald Pattern 2,GA3501,31427789,GWASAtlas,9851898,1075356,1003800,30,7.47e-02,1.54e-03
+Bald Pattern 3,GA3502,31427789,GWASAtlas,9851898,1075356,1004171,30,5.87e-02,1.25e-03
+Bald Pattern 4,GA3503,31427789,GWASAtlas,9851898,1075356,1003635,30,3.27e-01,3.43e-03
+Non-butter spread type details: Flora Pro-Active or Benecol,GA3504,31427789,GWASAtlas,9971636,1075357,1004644,20,1.99e-02,9.85e-04
+Non-butter spread type details: Soft (tub) margarine,GA3505,31427789,GWASAtlas,9971636,1075357,1005041,23,5.75e-02,5.81e-03
+Non-butter spread type details: Olive oil based spread,GA3506,31427789,GWASAtlas,9971636,1075357,1003844,24,1.47e-02,3.37e-03
+Non-butter spread type details: Polyunsaturated/sunflower oil based spread,GA3507,31427789,GWASAtlas,9971636,1075357,1003461,19,8.89e-03,2.91e-03
+Non-butter spread type details: Other low or reduced fat spread,GA3508,31427789,GWASAtlas,9971635,1075357,1003581,10,2.05e-02,1.77e-03
+Reason for reducing amount of alcohol drunk: Illness or ill health,GA3509,31427789,GWASAtlas,9665500,1075356,1003417,10,2.77e-02,2.09e-03
+Reason for reducing amount of alcohol drunk: Health precaution,GA3510,31427789,GWASAtlas,9665724,1075356,1004091,30,4.59e-02,6.49e-03
+Reason for reducing amount of alcohol drunk: Other reason,GA3511,31427789,GWASAtlas,9665724,1075356,1004802,30,4.49e-02,7.11e-03
+Type of tobacco previously smoked: Manufactured cigarettes,GA3512,31427789,GWASAtlas,9352990,1075351,1006317,18,4.33e-02,3.26e-03
+Gas or solid-fuel cooking/heating: A gas hob or gas cooker,GA3513,31427789,GWASAtlas,10599054,1075357,1004280,8,4.09e-03,2.70e-03
+Gas or solid-fuel cooking/heating: A gas fire that you use regularly in winter time,GA3514,31427789,GWASAtlas,10599054,1075357,1006052,25,1.50e-02,7.41e-03
+Gas or solid-fuel cooking/heating: An open solid fuel fire that you use regularly in winter time,GA3515,31427789,GWASAtlas,10599013,1075357,1004434,30,5.13e-02,7.40e-03
+"How are people in household related to participant: Husband, wife or partner",GA3517,31427789,GWASAtlas,10399539,1075357,1006583,21,3.68e-02,4.90e-03
+How are people in household related to participant: Son and/or daughter,GA3518,31427789,GWASAtlas,10399545,1075357,1010347,23,9.35e-03,3.21e-03
+Current employment status: In paid employment or self-employed,GA3519,31427789,GWASAtlas,10599054,1075357,1010270,28,1.17e-02,5.26e-03
+Current employment status: Retired,GA3520,31427789,GWASAtlas,10599054,1075357,1006771,23,9.68e-03,4.54e-03
+Current employment status: Looking after home and/or family,GA3521,31427789,GWASAtlas,10598537,1075357,1005543,11,3.11e-02,2.87e-03
+Current employment status: Unable to work because of sickness or disability,GA3522,31427789,GWASAtlas,10593982,1075357,1005589,30,1.04e-01,6.87e-03
+Current employment status: Doing unpaid or voluntary work,GA3523,31427789,GWASAtlas,10595255,1075357,1003705,19,5.76e-02,4.58e-03
+Transport type for commuting to job workplace: Car/motor vehicle,GA3524,31427789,GWASAtlas,9990728,1075357,1009049,19,3.12e-02,5.29e-03
+Transport type for commuting to job workplace: Walk,GA3525,31427789,GWASAtlas,9990728,1075357,1005524,22,2.41e-02,3.70e-03
+Transport type for commuting to job workplace: Public transport,GA3526,31427789,GWASAtlas,9990728,1075357,1008185,27,3.57e-02,5.64e-03
+Transport type for commuting to job workplace: Cycle,GA3527,31427789,GWASAtlas,9990709,1075357,1005915,30,1.26e-01,8.23e-03
+"Never eat eggs, dairy, wheat, sugar: Eggs or foods containing eggs",GA3528,31427789,GWASAtlas,10577301,1075357,1003173,20,1.03e-01,5.15e-03
+"Never eat eggs, dairy, wheat, sugar: Wheat products",GA3529,31427789,GWASAtlas,10582268,1075357,1003226,30,1.23e-02,1.39e-05
+"Never eat eggs, dairy, wheat, sugar: Sugar or foods/drinks containing sugar",GA3530,31427789,GWASAtlas,10599054,1075357,1004683,30,7.22e-02,1.42e-02
+"Never eat eggs, dairy, wheat, sugar: I eat all of the above",GA3531,31427789,GWASAtlas,10599054,1075357,1004721,30,6.60e-02,1.39e-02
+"Mental health: Serious illness, injury or assault to yourself",GA3532,31427789,GWASAtlas,10599051,1075357,1003439,29,3.85e-02,6.83e-03
+"Mental health: Serious illness, injury or assault of a close relative",GA3533,31427789,GWASAtlas,10599054,1075357,1003810,27,2.57e-02,5.57e-03
+Mental health: Death of a close relative,GA3534,31427789,GWASAtlas,10599054,1075357,1003218,11,1.27e-02,3.93e-03
+Mental health: Marital separation/divorce,GA3535,31427789,GWASAtlas,10590423,1075357,1003873,12,3.44e-02,2.40e-03
+Mental health: Financial difficulties,GA3536,31427789,GWASAtlas,10599054,1075357,1006475,30,7.02e-02,1.06e-02
+Disability living allowance,GA3537,31427789,GWASAtlas,10595927,1075357,1005139,30,1.18e-01,7.93e-03
+Blue badge,GA3538,31427789,GWASAtlas,10591490,1075357,1004294,30,1.31e-01,7.72e-03
+Reason for glasses/contact lenses: For short-sightedness,GA3539,31427789,GWASAtlas,9223534,1075345,1004795,30,1.91e-01,5.94e-03
+Reason for glasses/contact lenses: For long-sightedness,GA3540,31427789,GWASAtlas,9223534,1075345,1003953,25,8.72e-02,3.71e-03
+Reason for glasses/contact lenses: For just reading/near work as you are getting older,GA3541,31427789,GWASAtlas,9223534,1075345,1003833,17,4.81e-02,3.32e-03
+Reason for glasses/contact lenses: For astigmatism,GA3542,31427789,GWASAtlas,9223534,1075345,1004171,23,1.53e-01,7.28e-03
+Cataract,GA3543,31427789,GWASAtlas,9572428,1075356,1007782,13,6.12e-02,2.64e-03
+Mouth ulcers,GA3544,31427789,GWASAtlas,10599054,1075357,1003283,30,7.29e-02,2.34e-03
+Painful gums,GA3545,31427789,GWASAtlas,10585707,1075357,1003217,21,5.63e-02,3.21e-03
+Bleeding gums,GA3546,31427789,GWASAtlas,10599054,1075357,1004183,30,4.98e-02,8.13e-03
+Loose teeth,GA3547,31427789,GWASAtlas,10596807,1075357,1003576,28,9.10e-02,6.08e-03
+Toothache,GA3548,31427789,GWASAtlas,10596991,1075357,1003368,10,4.38e-02,3.23e-03
+Dentures,GA3549,31427789,GWASAtlas,10599054,1075357,1008243,30,1.06e-01,1.52e-02
+Angina,GA3550,31427789,GWASAtlas,10588129,1075357,1005298,30,1.90e-01,4.91e-03
+High blood pressure,GA3551,31427789,GWASAtlas,10599054,1075357,1006477,30,1.66e-01,1.37e-02
+Asthma,GA3552,31427789,GWASAtlas,10599054,1075357,1003391,30,1.33e-01,4.21e-03
+"Hayfever, allergic rhinitis or eczema",GA3553,31427789,GWASAtlas,10599054,1075357,1004151,30,1.12e-01,7.24e-03
+Cholesterol lowering medication,GA3554,31427789,GWASAtlas,10000953,1075357,1007277,30,1.25e-01,2.88e-03
+Blood pressure medication,GA3555,31427789,GWASAtlas,10000953,1075357,1007068,30,2.09e-01,9.00e-03
+MedicHormone replacement therapy,GA3556,31427789,GWASAtlas,10000899,1075357,1003149,19,4.88e-02,3.29e-03
+Aspirin,GA3557,31427789,GWASAtlas,10589580,1075357,1006801,30,4.89e-02,6.75e-03
+Ibuprofen,GA3558,31427789,GWASAtlas,10589580,1075357,1004626,30,4.01e-02,7.15e-03
+Paracetamol,GA3559,31427789,GWASAtlas,10589580,1075357,1004704,30,5.90e-02,1.19e-02
+Omeprazole,GA3560,31427789,GWASAtlas,10589363,1075357,1004068,30,9.52e-02,1.01e-02
+Laxatives,GA3561,31427789,GWASAtlas,10577491,1075357,1003752,25,1.05e-01,5.39e-03
+Vitamin B,GA3562,31427789,GWASAtlas,10597040,1075357,1003365,20,4.62e-02,4.10e-03
+Vitamin C,GA3563,31427789,GWASAtlas,10599044,1075357,1003267,30,3.61e-02,5.32e-03
+Vitamin D,GA3564,31427789,GWASAtlas,10595928,1075357,1003757,16,3.53e-02,2.87e-03
+Vitamin E,GA3565,31427789,GWASAtlas,10589417,1075357,1003235,14,5.31e-02,3.54e-03
+Multivitamins +/- minerals,GA3566,31427789,GWASAtlas,10599054,1075357,1003680,30,3.54e-02,9.67e-03
+Why stopped smoking: Illness or ill health,GA3567,31427789,GWASAtlas,9346197,1075351,1004003,6,3.96e-02,1.85e-03
+Why stopped smoking: Health precaution,GA3568,31427789,GWASAtlas,9346197,1075351,1003719,30,5.21e-02,4.35e-03
+Why stopped smoking: Financial reasons,GA3569,31427789,GWASAtlas,9346197,1075351,1003760,9,1.64e-02,1.62e-03
+Headache,GA3570,31427789,GWASAtlas,10599054,1075357,1005140,30,7.12e-02,8.95e-03
+Neck or shoulder pain,GA3571,31427789,GWASAtlas,10599054,1075357,1003549,30,4.68e-02,1.22e-02
+Back pain,GA3572,31427789,GWASAtlas,10599054,1075357,1003546,30,5.21e-02,1.28e-02
+Stomach or abdominal pain,GA3573,31427789,GWASAtlas,10599048,1075357,1003769,28,5.94e-02,7.29e-03
+Hip pain,GA3574,31427789,GWASAtlas,10599054,1075357,1003991,30,5.72e-02,9.45e-03
+Knee pain,GA3575,31427789,GWASAtlas,10599054,1075357,1003815,30,5.59e-02,1.19e-02
+Social support - Leisure/social activities: Adult education class,GA3579,31427789,GWASAtlas,10599032,1075357,1004147,30,6.22e-02,6.51e-03
+Social support - Leisure/social activities: Other group activity,GA3580,31427789,GWASAtlas,10599054,1075357,1005016,30,3.37e-02,9.37e-03
+Types of transport used: Car/motor vehicle,GA3581,31427789,GWASAtlas,10599054,1075357,1008220,30,3.74e-02,1.02e-02
+Types of transport used: Walk,GA3582,31427789,GWASAtlas,10599054,1075357,1003836,30,3.47e-02,1.26e-02
+Types of transport used: Public transport,GA3583,31427789,GWASAtlas,10599054,1075357,1008215,30,2.43e-02,7.75e-03
+Types of transport used: Cycle,GA3584,31427789,GWASAtlas,10599009,1075357,1005418,30,1.00e-01,1.05e-02
+Types of physical activity in last 4 weeks: Walking for pleasure,GA3585,31427789,GWASAtlas,10599054,1075357,1004249,30,4.45e-02,1.24e-02
+Types of physical activity in last 4 weeks: Other exercises,GA3586,31427789,GWASAtlas,10599054,1075357,1005106,30,4.36e-02,1.35e-02
+Types of physical activity in last 4 weeks: Strenuous sports,GA3587,31427789,GWASAtlas,10599054,1075357,1006364,30,6.39e-02,8.67e-03
+Types of physical activity in last 4 weeks: Light DIY,GA3588,31427789,GWASAtlas,10599054,1075357,1004686,30,4.37e-02,1.49e-02
+Types of physical activity in last 4 weeks: Heavy DIY,GA3589,31427789,GWASAtlas,10599054,1075357,1007213,30,4.58e-02,1.61e-02
+Cholesterol lowering medication,GA3590,31427789,GWASAtlas,9851898,1075356,1008045,30,1.30e-01,4.44e-03
+Blood pressure medication,GA3591,31427789,GWASAtlas,9851898,1075356,1007706,30,1.68e-01,9.03e-03
+Fish oil (including cod liver oil),GA3592,31427789,GWASAtlas,10599054,1075357,1005337,30,3.24e-02,1.15e-02
+Glucosamine,GA3593,31427789,GWASAtlas,10599054,1075357,1005292,30,3.65e-02,9.20e-03
+Calcium,GA3594,31427789,GWASAtlas,10598977,1075357,1005381,28,5.44e-02,5.79e-03
+Zinc,GA3595,31427789,GWASAtlas,10596487,1075357,1003324,26,6.30e-02,5.12e-03
+Iron,GA3596,31427789,GWASAtlas,10590312,1075357,1003507,6,3.81e-02,1.82e-03
+Hypertension,GA3597,31427789,GWASAtlas,10321705,1075357,1006230,30,1.63e-01,1.24e-02
+Angina,GA3598,31427789,GWASAtlas,10318726,1075357,1005409,30,1.70e-01,4.25e-03
+Asthma,GA3599,31427789,GWASAtlas,10321705,1075357,1003879,30,1.23e-01,3.70e-03
+Gastro-esophageal reflux disease,GA3600,31427789,GWASAtlas,10321035,1075357,1003401,26,6.18e-02,4.77e-03
+Diabetes,GA3601,31427789,GWASAtlas,10320953,1075357,1004342,30,2.46e-01,4.09e-03
+Hypothyroidism/Myxoedema,GA3602,31427789,GWASAtlas,10321470,1075357,1004964,30,2.63e-01,2.27e-03
+Migraine,GA3603,31427789,GWASAtlas,10318262,1075357,1004122,30,1.50e-01,3.13e-03
+Depression,GA3604,31427789,GWASAtlas,10321667,1075357,1004048,29,6.44e-02,5.69e-03
+Hayfever/Allergic Rhinitis,GA3605,31427789,GWASAtlas,10321663,1075357,1004436,30,1.01e-01,3.50e-03
+Eczema/Dermatitis,GA3606,31427789,GWASAtlas,10314254,1075357,1003465,27,8.63e-02,8.09e-04
+Osteoarthritis,GA3607,31427789,GWASAtlas,10321694,1075357,1005573,30,6.25e-02,6.21e-03
+High cholesterol,GA3608,31427789,GWASAtlas,10321705,1075357,1006380,30,1.07e-01,2.25e-03
+Omega-3/fish oil supplement,GA3609,31427789,GWASAtlas,10284680,1075357,1004206,6,2.35e-02,2.35e-03
+Multivitamins,GA3610,31427789,GWASAtlas,10283115,1075357,1003832,5,7.78e-03,1.42e-03
+Lisinopril,GA3611,31427789,GWASAtlas,10280566,1075357,1004067,24,1.11e-01,4.36e-03
+Ramipril,GA3612,31427789,GWASAtlas,10285805,1075357,1004822,27,7.86e-02,5.01e-03
+Simvastatin,GA3613,31427789,GWASAtlas,10286041,1075357,1007162,30,6.16e-02,2.47e-03
+Ventolin 100micrograms inhaler,GA3614,31427789,GWASAtlas,10281078,1075357,1003427,30,1.20e-01,1.46e-03
+Lansoprazole,GA3615,31427789,GWASAtlas,10284516,1075357,1003896,24,6.11e-02,4.53e-03
+Omeprazole,GA3616,31427789,GWASAtlas,10285998,1075357,1003915,27,6.80e-02,7.71e-03
+Atenolol,GA3617,31427789,GWASAtlas,10284883,1075357,1004554,29,1.09e-01,4.23e-03
+Aspirin,GA3618,31427789,GWASAtlas,10286041,1075357,1007105,29,3.51e-02,4.77e-03
+Ibuprofen,GA3619,31427789,GWASAtlas,10286041,1075357,1005820,26,2.83e-02,5.35e-03
+Amlodipine,GA3620,31427789,GWASAtlas,10285466,1075357,1004832,30,1.52e-01,4.81e-03
+Metformin,GA3621,31427789,GWASAtlas,10280049,1075357,1003906,30,3.21e-01,4.54e-03
+Cod liver oil capsule,GA3622,31427789,GWASAtlas,10285962,1075357,1005063,12,3.06e-02,3.41e-03
+Atorvastatin,GA3623,31427789,GWASAtlas,10282834,1075357,1004571,30,9.46e-02,7.63e-04
+Glucosamine product,GA3624,31427789,GWASAtlas,10286027,1075357,1005157,14,3.05e-02,3.35e-03
+Levothyroxine sodium,GA3625,31427789,GWASAtlas,10285376,1075357,1004533,30,1.99e-01,1.48e-03
+Bendroflumethiazide,GA3626,31427789,GWASAtlas,10286006,1075357,1004626,30,1.33e-01,5.67e-03
+Paracetamol,GA3627,31427789,GWASAtlas,10286041,1075357,1005261,30,3.74e-02,7.22e-03
+Family (paternal) history of Heart disease,GA3628,31427789,GWASAtlas,10520505,1075357,1003281,30,3.77e-02,6.13e-03
+Family (paternal) history of Stroke,GA3629,31427789,GWASAtlas,10520505,1075357,1003301,7,9.87e-03,1.78e-03
+Family (paternal) history of Lung cancer,GA3630,31427789,GWASAtlas,10520465,1075357,1003450,30,4.11e-02,3.77e-03
+Family (paternal) history of Bowel cancer,GA3631,31427789,GWASAtlas,10519889,1075357,1003049,8,2.17e-02,1.12e-03
+Family (paternal) history of Chronic bronchitis/emphysema,GA3632,31427789,GWASAtlas,10520502,1075357,1004011,29,4.17e-02,6.15e-03
+Family (paternal) history of High blood pressure,GA3633,31427789,GWASAtlas,10520505,1075357,1004427,30,3.10e-02,5.47e-03
+Family (paternal) history of Diabetes,GA3634,31427789,GWASAtlas,10520503,1075357,1003554,30,9.26e-02,6.05e-03
+Family (paternal) history of Alzheimer's disease,GA3635,31427789,GWASAtlas,10518475,1075357,1003368,25,1.71e-02,1.12e-05
+Family (paternal) history of Severe depression,GA3636,31427789,GWASAtlas,10515730,1075357,1003190,21,5.74e-02,4.47e-03
+Family (paternal) history of Prostate cancer,GA3637,31427789,GWASAtlas,10520442,1075357,1003204,26,2.82e-02,8.74e-04
+Family (maternal) history of Heart disease,GA3638,31427789,GWASAtlas,10552592,1075357,1004178,30,2.59e-02,3.64e-03
+Family (maternal) history of Stroke,GA3639,31427789,GWASAtlas,10552592,1075357,1004125,23,1.54e-02,3.98e-03
+Family (maternal) history of Lung cancer,GA3640,31427789,GWASAtlas,10547433,1075357,1003213,15,3.16e-02,1.70e-03
+Family (maternal) history of Bowel cancer,GA3641,31427789,GWASAtlas,10551413,1075357,1003212,16,2.31e-02,2.03e-03
+Family (maternal) history of Breast cancer,GA3642,31427789,GWASAtlas,10552582,1075357,1003108,25,2.44e-02,6.57e-04
+Family (maternal) history of Chronic bronchitis/emphysema,GA3643,31427789,GWASAtlas,10552067,1075357,1003348,27,5.64e-02,4.83e-03
+Family (maternal) history of High blood pressure,GA3644,31427789,GWASAtlas,10552592,1075357,1004264,30,3.50e-02,6.87e-03
+Family (maternal) history of Diabetes,GA3645,31427789,GWASAtlas,10552590,1075357,1003267,30,8.92e-02,5.48e-03
+Family (maternal) history of Alzheimer's disease,GA3646,31427789,GWASAtlas,10552574,1075357,1004378,30,2.40e-02,1.83e-05
+Family (maternal) history of Severe depression,GA3647,31427789,GWASAtlas,10552468,1075357,1003281,27,4.80e-02,5.32e-03
+Family (siblings) history of Heart disease,GA3648,31427789,GWASAtlas,10383971,1075357,1005357,29,5.04e-02,4.73e-03
+Family (siblings) history of Stroke,GA3649,31427789,GWASAtlas,10370504,1075357,1003860,9,3.10e-02,1.51e-03
+Family (siblings) history of Breast cancer,GA3650,31427789,GWASAtlas,10381785,1075357,1003478,22,3.08e-02,7.13e-04
+Family (siblings) history of High blood pressure,GA3651,31427789,GWASAtlas,10383973,1075357,1004436,30,5.85e-02,7.73e-03
+Family (siblings) history of Diabetes,GA3652,31427789,GWASAtlas,10383954,1075357,1003746,30,8.06e-02,4.18e-03
+Family (siblings) history of Severe depression,GA3653,31427789,GWASAtlas,10383898,1075357,1003402,28,5.45e-02,5.14e-03
+Ever vs never smokers,GA3654,31427789,GWASAtlas,10599054,1075357,1005314,30,1.00e-01,2.04e-02
+Former vs current smokers,GA3655,31427789,GWASAtlas,9856108,1075356,1007230,30,6.03e-02,7.53e-03
+Ever vs never drinkers,GA3656,31427789,GWASAtlas,10595717,1075357,1003634,30,2.42e-01,1.35e-02
+Former vs current drinkers,GA3657,31427789,GWASAtlas,10565103,1075357,1003618,29,1.02e-01,6.84e-03
+Other and unspecified malignant neoplasm of skin,GA3658,31427789,GWASAtlas,9006841,1075314,1004733,30,1.40e-01,1.05e-03
+Malignant neoplasm of breast,GA3659,31427789,GWASAtlas,9007627,1075314,1009799,27,6.89e-02,4.00e-04
+Basal cell carcinoma,GA3660,31427789,GWASAtlas,9066843,1075325,1005049,30,1.40e-01,8.03e-04
+Adenocarcinoma,GA3661,31427789,GWASAtlas,9065925,1075325,1008830,24,4.86e-02,4.65e-04
+Carcinoma in situ,GA3662,31427789,GWASAtlas,9072313,1075326,1006494,9,7.25e-03,1.24e-04
+"Malignant, primary site",GA3663,31427789,GWASAtlas,9073249,1075327,1006396,8,6.20e-03,8.08e-05
+Other and unspecified malignant neoplasm of skin,GA3665,31427789,GWASAtlas,10347256,1075357,1003873,30,1.30e-01,7.41e-04
+"Benign neoplasm of colon, rectum, anus and anal canal",GA3666,31427789,GWASAtlas,10352088,1075357,1003814,27,1.07e-01,1.67e-03
+Other cataract,GA3667,31427789,GWASAtlas,10357482,1075357,1004894,28,7.43e-02,2.03e-03
+Chronic ischemic heart disease,GA3668,31427789,GWASAtlas,10358749,1075357,1005705,30,1.99e-01,3.87e-03
+Gastro-esophageal reflux disease,GA3669,31427789,GWASAtlas,10356180,1075357,1003302,11,5.52e-02,2.83e-03
+Gastritis and duodenitis,GA3670,31427789,GWASAtlas,10358816,1075357,1003742,14,4.38e-02,3.82e-03
+Inguinal hernia,GA3671,31427789,GWASAtlas,10358566,1075357,1006337,30,1.37e-01,2.74e-03
+Other and unsp noninfective gastroenteritis and colitis,GA3672,31427789,GWASAtlas,10351448,1075357,1003182,12,4.01e-02,2.05e-03
+Diverticular disease of intestine,GA3673,31427789,GWASAtlas,10358369,1075357,1004046,30,1.49e-01,4.21e-03
+Other diseases of anus and rectum,GA3674,31427789,GWASAtlas,10359286,1075357,1003214,7,2.09e-02,1.94e-03
+Cholelithiasis,GA3675,31427789,GWASAtlas,10353820,1075357,1003528,30,6.90e-02,1.94e-04
+Osteoarthritis of hip,GA3676,31427789,GWASAtlas,10348208,1075357,1003857,30,1.83e-01,4.24e-03
+Osteoarthritis of knee,GA3677,31427789,GWASAtlas,10354645,1075357,1003836,30,1.69e-01,7.96e-03
+Internal derangement of knee,GA3678,31427789,GWASAtlas,10357589,1075357,1003342,28,8.21e-02,3.75e-03
+Dorsalgia,GA3679,31427789,GWASAtlas,10351785,1075357,1003214,28,9.64e-02,5.04e-03
+Other disorders of urinary system,GA3680,31427789,GWASAtlas,10355982,1075357,1003513,19,5.12e-02,3.58e-03
+Pain in throat and chest,GA3681,31427789,GWASAtlas,10360000,1075357,1003682,30,5.97e-02,7.07e-03
+Abdominal and pelvic pain,GA3682,31427789,GWASAtlas,10359876,1075357,1003556,26,3.73e-02,4.12e-03
+Oth symptoms and signs involving the dgstv sys and abdomen,GA3683,31427789,GWASAtlas,10350773,1075357,1003348,4,1.14e-02,5.67e-04
+Hematuria,GA3684,31427789,GWASAtlas,10357098,1075357,1003749,28,5.57e-02,1.59e-03
+Other hypothyroidism,GA3685,31427789,GWASAtlas,10153073,1075357,1004626,30,1.96e-01,1.47e-03
+Type 2 Diabetes,GA3686,31427789,GWASAtlas,10154391,1075357,1004807,30,2.48e-01,5.31e-03
+Obesity,GA3687,31427789,GWASAtlas,10150754,1075357,1003694,30,1.66e-01,5.63e-03
+Disorders of lipoprotein metabolism and other lipidemias,GA3688,31427789,GWASAtlas,10154467,1075357,1006743,30,8.04e-02,2.00e-03
+Nicotine dependence,GA3689,31427789,GWASAtlas,10151321,1075357,1004607,23,1.01e-01,4.47e-03
+Major depressive disorder,GA3690,31427789,GWASAtlas,10152266,1075357,1003703,20,6.77e-02,3.88e-03
+Essential (primary) hypertension,GA3691,31427789,GWASAtlas,10154467,1075357,1007844,30,1.29e-01,9.68e-03
+Angina,GA3692,31427789,GWASAtlas,10153848,1075357,1005541,30,1.53e-01,3.67e-03
+Chronic ischemic heart disease,GA3693,31427789,GWASAtlas,10154383,1075357,1006404,30,1.37e-01,3.83e-03
+Atrial fibrillation and flutter,GA3694,31427789,GWASAtlas,10152288,1075357,1005040,30,1.15e-01,6.42e-04
+Asthma,GA3695,31427789,GWASAtlas,10154464,1075357,1003566,30,1.11e-01,3.08e-03
+Gastro-esophageal reflux disease,GA3696,31427789,GWASAtlas,10152822,1075357,1003350,14,4.10e-02,1.81e-03
+Gastritis and duodenitis,GA3697,31427789,GWASAtlas,10154315,1075357,1003869,20,4.33e-02,3.84e-03
+Diaphragmatic hernia,GA3698,31427789,GWASAtlas,10154428,1075357,1003833,29,8.42e-02,5.54e-03
+Diverticular disease of intestine,GA3699,31427789,GWASAtlas,10154104,1075357,1004163,30,1.29e-01,4.61e-03
+Other arthritis,GA3700,31427789,GWASAtlas,10150218,1075357,1004346,11,6.22e-02,2.50e-03
+Other and unspecified osteoarthritis,GA3701,31427789,GWASAtlas,10152728,1075357,1004172,9,5.80e-02,3.42e-03
+Abdominal and pelvic pain,GA3702,31427789,GWASAtlas,10150624,1075357,1003361,15,3.13e-02,2.44e-03
+"Surgical operation and other surgical procedures as the cause of abnormal reaction of the patient, or later complication, without mention of misadventure at the time of the procedure",GA3703,31427789,GWASAtlas,10154383,1075357,1003464,5,7.84e-03,2.73e-03
+Outcome of delivery,GA3704,31427789,GWASAtlas,10153023,1075357,1009576,22,8.41e-02,5.70e-03
+Encounter for other aftercare,GA3705,31427789,GWASAtlas,10154465,1075357,1003661,17,1.31e-02,1.96e-03
+"Persons encntr hlth serv for spec proc & trtmt, not crd out",GA3706,31427789,GWASAtlas,10154454,1075357,1003956,13,1.22e-02,2.55e-03
+Problems related to lifestyle,GA3707,31427789,GWASAtlas,10154343,1075357,1005373,17,4.53e-02,4.28e-03
+Family history of primary malignant neoplasm,GA3708,31427789,GWASAtlas,10150646,1075357,1003293,10,2.96e-02,2.41e-03
+Family history of certain disabilities and chronic diseases (leading to disablement),GA3709,31427789,GWASAtlas,10153621,1075357,1003852,28,8.02e-02,2.05e-03
+Personal history of malignant neoplasm,GA3710,31427789,GWASAtlas,10154428,1075357,1004024,22,3.05e-02,1.78e-03
+Personal history of certain other diseases,GA3711,31427789,GWASAtlas,10154467,1075357,1005881,23,2.19e-02,3.17e-03
+Personal history of other diseases and conditions,GA3712,31427789,GWASAtlas,10154466,1075357,1003915,16,2.18e-02,3.11e-03
+Allergy status to drug/meds/biol subst,GA3713,31427789,GWASAtlas,10154465,1075357,1005133,14,3.46e-02,3.69e-03
+"Acquired absence of organs, not elsewhere classified",GA3714,31427789,GWASAtlas,10153931,1075357,1004023,11,2.71e-02,1.97e-03
+Personal history of medical treatment,GA3715,31427789,GWASAtlas,10154467,1075357,1006067,24,2.70e-02,1.60e-03
+Presence of cardiac and vascular implants and grafts,GA3716,31427789,GWASAtlas,10153033,1075357,1005452,30,1.34e-01,2.33e-03
+Presence of other functional implants,GA3717,31427789,GWASAtlas,10154288,1075357,1004774,24,5.74e-02,4.40e-03
+Alcohol intake,GA3718,31427789,GWASAtlas,9496441,1075356,1003982,30,9.70e-02,1.15e-02
+"Ever had known person concerned about, or recommended reduction of alcohol consumption",GA3719,31427789,GWASAtlas,9567015,1075356,1004966,27,1.47e-01,8.03e-03
+Frequency of failure to fulfil normal expectations fue to drinking alcohol in last year,GA3720,31427789,GWASAtlas,9145173,1075342,1003948,5,1.56e-02,1.41e-03
+Frequency of memory loss due to drinking alcohol in last year,GA3721,31427789,GWASAtlas,9144203,1075341,1003948,20,3.57e-02,4.12e-03
+Frequency of feeling guilt or remorse after drinking alcohol in last year,GA3722,31427789,GWASAtlas,9144200,1075341,1003941,22,4.13e-02,4.52e-03
+Frequency of needing morning drink of alcohol after heavy drinking session in last year,GA3723,31427789,GWASAtlas,9145283,1075342,1003974,4,2.00e-03,2.59e-03
+Frequency of inability to cease drinking in last year,GA3724,31427789,GWASAtlas,9144200,1075341,1003950,11,2.37e-02,2.35e-03
+Alcohol intake frequency,GA3725,31427789,GWASAtlas,9567039,1075356,1003962,30,1.05e-01,1.19e-02
+Frequency of consuming six or more units of alcohol,GA3726,31427789,GWASAtlas,9499033,1075356,1003981,30,1.12e-01,1.23e-02
+"Ever felt worried, tense, or anxious for most of a month or longer",GA3727,31427789,GWASAtlas,9513612,1075356,1004370,29,5.82e-02,5.97e-03
+Ever worried more than most people would in similar situation,GA3728,31427789,GWASAtlas,9430221,1075354,1004790,30,7.16e-02,6.70e-03
+Age at first episode of depression,GA3729,31427789,GWASAtlas,9113898,1075336,1003971,13,3.00e-02,2.52e-03
+Age at last episode of depression,GA3730,31427789,GWASAtlas,9096912,1075334,1003966,8,2.04e-02,1.99e-03
+Difficulty concentrating during worst ddepression,GA3731,31427789,GWASAtlas,9090871,1075334,1004452,19,4.61e-02,2.60e-03
+Fraction of day affected during worst episode of depression,GA3732,31427789,GWASAtlas,9128164,1075339,1003959,21,3.38e-02,3.19e-03
+Thoughts of death during worst depression,GA3733,31427789,GWASAtlas,9130572,1075339,1003942,11,2.64e-02,2.89e-03
+Duration of worst depression,GA3734,31427789,GWASAtlas,9157835,1075342,1003962,12,3.21e-02,2.82e-03
+Frequency of depressed days during worst episode of depression,GA3735,31427789,GWASAtlas,9147579,1075342,1003966,15,3.10e-02,3.18e-03
+Impact of normal roles during worst period of depression,GA3736,31427789,GWASAtlas,9165864,1075344,1003959,14,3.04e-02,3.14e-03
+Ever had prolonged loss of interest in normal activities,GA3737,31427789,GWASAtlas,9564533,1075356,1005726,30,5.26e-02,7.35e-03
+Ever had prolonged feelings of sadness or depression,GA3739,31427789,GWASAtlas,9565035,1075356,1005927,30,4.89e-02,7.51e-03
+Depression possibly related to stressful or traumatic event,GA3740,31427789,GWASAtlas,9165839,1075344,1005004,9,2.71e-02,2.22e-03
+Professional informed about depression,GA3741,31427789,GWASAtlas,9164759,1075344,1004464,13,4.24e-02,3.91e-03
+Feelings of tiredness during worst episode of depression,GA3742,31427789,GWASAtlas,9100851,1075335,1004836,19,4.27e-02,2.87e-03
+Feelings of worthlessness during worst period of depression,GA3743,31427789,GWASAtlas,9125293,1075339,1005366,25,4.84e-02,4.24e-03
+Ever taken cannabis,GA3744,31427789,GWASAtlas,9567039,1075356,1003968,30,9.14e-02,1.09e-02
+Happiness,GA3745,31427789,GWASAtlas,9564533,1075356,1003962,30,6.30e-02,7.72e-03
+Happiness with own health,GA3746,31427789,GWASAtlas,9564535,1075356,1003968,30,6.43e-02,8.11e-03
+Belief that own life is meaningfull,GA3747,31427789,GWASAtlas,9548951,1075356,1003958,30,6.41e-02,8.56e-03
+Felt loved as child,GA3748,31427789,GWASAtlas,9564533,1075356,1003966,30,7.05e-02,8.84e-03
+Someone to take to doctor when needed as a child,GA3749,31427789,GWASAtlas,9561902,1075356,1003968,18,2.74e-02,3.99e-03
+Felt irritable or had angry outbursts in past month,GA3750,31427789,GWASAtlas,9030676,1075319,1003969,15,3.66e-02,3.42e-03
+Avoided activities or situations because of previous stressful experience in past month,GA3751,31427789,GWASAtlas,9567039,1075356,1003974,25,2.99e-02,3.88e-03
+Felt distant from other people in past month,GA3752,31427789,GWASAtlas,9031086,1075319,1003966,14,4.27e-02,3.04e-03
+Repeated disturbing thoughts of stressful experience in past month,GA3753,31427789,GWASAtlas,9567039,1075356,1003967,27,3.70e-02,4.94e-03
+Felt very upset when reminded of stressful expresince in past month,GA3754,31427789,GWASAtlas,9567039,1075356,1003972,30,4.36e-02,5.75e-03
+Ever sought or received professional help for mental distress,GA3755,31427789,GWASAtlas,9564533,1075356,1005915,30,6.70e-02,8.16e-03
+Ever suffered mental distress preventing usual activities,GA3756,31427789,GWASAtlas,9556586,1075356,1005586,30,5.98e-02,7.10e-03
+Ever had period extreme irritability,GA3757,31427789,GWASAtlas,9542703,1075356,1004950,30,6.65e-02,6.94e-03
+Recent easy annoyance or irritability,GA3758,31427789,GWASAtlas,9564533,1075356,1003970,28,3.89e-02,6.45e-03
+Reccent feelings or nervousness or anxiety,GA3759,31427789,GWASAtlas,9564533,1075356,1003961,29,3.68e-02,5.62e-03
+Recent feelings of inadequacy,GA3760,31427789,GWASAtlas,9564533,1075356,1003978,26,3.29e-02,5.29e-03
+Recent trouble concentrating on things,GA3761,31427789,GWASAtlas,9567039,1075356,1003969,22,2.97e-02,4.93e-03
+Recent inability to stop or control worying,GA3762,31427789,GWASAtlas,9564533,1075356,1003968,28,3.87e-02,5.91e-03
+Recent feelings of depression,GA3763,31427789,GWASAtlas,9564533,1075356,1003970,27,2.97e-02,4.70e-03
+Recent poor appetite or overeting,GA3764,31427789,GWASAtlas,9567039,1075356,1003971,30,4.29e-02,6.39e-03
+Recent feelings of foreboding,GA3765,31427789,GWASAtlas,9564533,1075356,1003968,26,3.54e-02,5.68e-03
+Recent thoughts of suicide or self-harm,GA3766,31427789,GWASAtlas,9561902,1075356,1003968,12,1.06e-02,2.18e-03
+Recent lack of interenst of pleasure in doing things,GA3767,31427789,GWASAtlas,9564645,1075356,1003969,17,3.14e-02,4.55e-03
+Recent trouble relaxing,GA3768,31427789,GWASAtlas,9564533,1075356,1003967,25,3.52e-02,5.61e-03
+Recent restlessness,GA3769,31427789,GWASAtlas,9566424,1075356,1003970,17,2.27e-02,3.92e-03
+Trouble falling or staying asleep. or sleeping too much,GA3770,31427789,GWASAtlas,9567039,1075356,1003965,30,4.36e-02,5.90e-03
+Recent changes in speed/amount of moving or speaking,GA3771,31427789,GWASAtlas,9567039,1075356,1003983,12,1.39e-02,2.90e-03
+Recent feelings of tiredness or low enery,GA3772,31427789,GWASAtlas,9567039,1075356,1003963,30,5.53e-02,7.12e-03
+Recent worrying too much about different things,GA3773,31427789,GWASAtlas,9564533,1075356,1003966,28,3.90e-02,6.59e-03
+Been in aconfiding relationship as an adult,GA3774,31427789,GWASAtlas,9546410,1075356,1003977,28,4.11e-02,6.77e-03
+Able to pay rent/morgage as an adult,GA3775,31427789,GWASAtlas,9556586,1075356,1003970,18,2.27e-02,3.55e-03
+Been in serious accident believed to be life-threatening,GA3776,31427789,GWASAtlas,9567034,1075356,1004141,10,5.33e-02,2.97e-03
+Diagnosed with life-threatening illness,GA3777,31427789,GWASAtlas,9564533,1075356,1004366,7,2.42e-02,2.09e-03
+Victim of physically violent crime,GA3778,31427789,GWASAtlas,9567039,1075356,1006235,24,3.44e-02,3.97e-03
+Witnessed sudden violent death,GA3779,31427789,GWASAtlas,9567039,1075356,1004621,21,4.67e-02,3.74e-03
+Did your sleep change?,GA3780,31427789,GWASAtlas,9074116,1075327,1004536,11,3.00e-02,1.82e-03
+Trouble falling asleep,GA3781,31427789,GWASAtlas,8942903,1075271,1003248,19,4.31e-02,2.30e-03
+Sleeping too much,GA3782,31427789,GWASAtlas,8942903,1075271,1004298,7,4.51e-02,2.05e-03
+Waking too early,GA3783,31427789,GWASAtlas,8942903,1075271,1003202,8,5.26e-02,2.21e-03
+Weight change during worst episode of depression,GA3784,31427789,GWASAtlas,9032061,1075319,1003960,9,2.45e-02,1.75e-03
+Insomnia,GA3786,30804565,GWASAtlas,10862567,1075372,1009880,30,4.75e-02,1.34e-02
+Insomnia,GA3787,30804565,GWASAtlas,10862567,1075372,1009880,30,4.77e-02,1.35e-02
+Insomnia,GA3788,30804565,GWASAtlas,10862567,1075372,1009880,30,4.76e-02,1.34e-02
+Chronotype,GA3789,30804565,GWASAtlas,5474951,539911,504025,30,9.37e-02,3.12e-02
+Narcolepsy,GA3790,30804565,GWASAtlas,10820721,1075372,1003888,28,1.24e-02,5.57e-03
+Ease of getting up in the morning,GA3791,30804565,GWASAtlas,5449278,538787,503135,30,5.81e-02,2.60e-02
+Nap,GA3792,30804565,GWASAtlas,10858884,1075372,1003921,30,2.14e-02,7.42e-03
+Depressive affect,GA3797,29942085,GWASAtlas,10847150,1075372,1003990,30,9.37e-02,1.91e-02
+Worry,GA3798,29942085,GWASAtlas,10847150,1075372,1003988,30,9.14e-02,1.83e-02
+Heart rate variability,GA3924,28613276,GWASAtlas,2532811,1055934,989140,24,3.85e-02,2.16e-04
+HbA1c,GA3943,28898252,GWASAtlas,2586698,1043527,954259,29,5.59e-02,1.08e-03
+Gestational weight gain,GA3960,28990592,GWASAtlas,2408704,985231,923685,21,1.25e-01,2.98e-03
+Asthma,GA3968,29273806,GWASAtlas,1981040,979464,923845,30,1.41e-01,4.23e-03
+Asthma,GA3969,29273806,GWASAtlas,1981040,979464,922793,30,4.49e-02,5.42e-04
+Neuroticism,GA3990,29500382,GWASAtlas,10846943,1075357,1003655,30,1.09e-01,2.07e-02
+Mood swings,GA3991,29500382,GWASAtlas,10846943,1075357,1003655,30,6.76e-02,1.63e-02
+Miserableness,GA3992,29500382,GWASAtlas,10846943,1075357,1003655,30,5.97e-02,1.50e-02
+Irritability,GA3993,29500382,GWASAtlas,10846943,1075357,1003655,30,6.16e-02,1.47e-02
+Sensitivity,GA3994,29500382,GWASAtlas,10846943,1075357,1003655,30,6.03e-02,1.46e-02
+Fed-up,GA3995,29500382,GWASAtlas,10846943,1075357,1003655,30,6.83e-02,1.70e-02
+Nervous,GA3996,29500382,GWASAtlas,10846943,1075357,1003655,30,6.33e-02,1.53e-02
+Anxious,GA3997,29500382,GWASAtlas,10846943,1075357,1003655,30,7.36e-02,1.67e-02
+Tense,GA3998,29500382,GWASAtlas,10846943,1075357,1003655,30,5.10e-02,1.31e-02
+Worry too long after embarrassment,GA3999,29500382,GWASAtlas,10846943,1075357,1003655,30,6.23e-02,1.55e-02
+Suffer from nerves,GA4000,29500382,GWASAtlas,10846943,1075357,1003655,30,4.02e-02,1.15e-02
+Loneliness,GA4001,29500382,GWASAtlas,10846943,1075357,1003655,30,3.55e-02,1.21e-02
+Guilty feelings,GA4002,29500382,GWASAtlas,10846943,1075357,1003655,30,4.94e-02,1.35e-02
+Epilepsy,GA4161,30531953,GWASAtlas,4988872,870657,824470,19,3.91e-01,6.81e-03
+Heel bone mineral density,GA4175,30048462,GWASAtlas,20259826,1118442,1042358,30,4.18e-01,1.12e-02
+Estimated glomerular filtration rate,GA4206,31152163,GWASAtlas,8885712,1116835,1041894,30,7.43e-02,6.03e-03
+Blood urea nitrogen,GA4208,31152163,GWASAtlas,8358026,1115294,1044158,30,6.68e-02,2.85e-03
+Drugs used in diabetes,GA4217,31015401,GWASAtlas,7288503,1059298,993732,30,5.02e-02,4.46e-03
+Antithrombotic agents,GA4218,31015401,GWASAtlas,7288503,1059298,993733,30,5.68e-02,5.39e-03
+Vasodilators used in cardiac diseases,GA4219,31015401,GWASAtlas,7288503,1059298,993728,26,1.73e-02,3.68e-03
+Antihypertensives,GA4220,31015401,GWASAtlas,7288503,1059298,993741,25,2.73e-02,4.19e-03
+Calcium channel blockers,GA4223,31015401,GWASAtlas,7288503,1059298,993772,30,1.16e-01,8.19e-03
+Drugs affecting bone structure and mineralization,GA4229,31015401,GWASAtlas,7288503,1059298,993724,28,2.25e-02,2.76e-03
+Handedness,GA4245,30980028,GWASAtlas,15053982,1113988,1038508,30,5.05e-02,5.88e-03
+Handedness,GA4246,30980028,GWASAtlas,15053982,1113988,1038509,30,4.59e-02,6.11e-03
+Ambidextrousness,GA4247,30980028,GWASAtlas,9859367,1105911,1033160,16,8.23e-02,2.44e-03
+Long sleep,GA4273,30846698,GWASAtlas,14661601,1118373,1042068,30,8.37e-02,8.37e-03
+Short sleep,GA4274,30846698,GWASAtlas,14661601,1118373,1042076,30,6.92e-02,1.39e-02
+Carpal tunnel syndrome,GA4276,30833571,GWASAtlas,8944547,1101820,1029877,30,2.12e-01,7.27e-03
+Insomnia,GA4290,30804566,GWASAtlas,14661601,1118373,1042086,30,1.19e-01,1.61e-02
+Chronotype,GA4294,30696823,GWASAtlas,11977111,1115705,1039938,30,1.18e-01,2.04e-02
+Chronotype,GA4295,30696823,GWASAtlas,11977376,1115707,1039921,30,1.16e-01,1.85e-02
+Erectile dysfunction,GA4332,30583798,GWASAtlas,9369315,1117109,1041386,6,1.27e-02,1.56e-04
+Asthma,GA4334,30552067,GWASAtlas,33771858,1107713,1025978,30,3.50e-01,2.53e-03
+Albuminuria,GA4357,30220432,GWASAtlas,11709857,1115411,1039713,30,4.74e-02,9.50e-03
+Acceleration average,GA4362,29899525,GWASAtlas,11826775,1118301,1042130,30,1.42e-01,1.07e-02
+Strenuous sports or other exercises,GA4363,29899525,GWASAtlas,11838159,1118313,1042130,30,6.38e-02,1.30e-02
+Vigorous physical activity,GA4364,29899525,GWASAtlas,11834614,1118307,1042096,30,6.23e-02,1.17e-02
+Moderate to vigorous physical activity levels,GA4365,29899525,GWASAtlas,11838639,1118318,1042109,30,4.73e-02,1.26e-02
+Fraction of accelerations,GA4366,29899525,GWASAtlas,11826725,1118305,1042125,30,1.07e-01,9.29e-03
